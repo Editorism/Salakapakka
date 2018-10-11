@@ -1,0 +1,3899 @@
+fileFormatVersion: 2
+guid: a9036549372848b46884c85416efdc97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character_upstairs_m:bkJnt_back
+    100002: character_upstairs_m:bkJnt_chest
+    100004: character_upstairs_m:bkJnt_head
+    100006: character_upstairs_m:bkJnt_jaw
+    100008: character_upstairs_m:bkJnt_L_ball
+    100010: character_upstairs_m:bkJnt_L_clavicle
+    100012: character_upstairs_m:bkJnt_L_eye
+    100014: character_upstairs_m:bkJnt_L_index1
+    100016: character_upstairs_m:bkJnt_L_index2
+    100018: character_upstairs_m:bkJnt_L_index3
+    100020: character_upstairs_m:bkJnt_L_index4
+    100022: character_upstairs_m:bkJnt_L_lowerArm
+    100024: character_upstairs_m:bkJnt_L_middle1
+    100026: character_upstairs_m:bkJnt_L_middle2
+    100028: character_upstairs_m:bkJnt_L_middle3
+    100030: character_upstairs_m:bkJnt_L_middle4
+    100032: character_upstairs_m:bkJnt_L_pinky1
+    100034: character_upstairs_m:bkJnt_L_pinky2
+    100036: character_upstairs_m:bkJnt_L_pinky3
+    100038: character_upstairs_m:bkJnt_L_pinky4
+    100040: character_upstairs_m:bkJnt_L_ring1
+    100042: character_upstairs_m:bkJnt_L_ring2
+    100044: character_upstairs_m:bkJnt_L_ring3
+    100046: character_upstairs_m:bkJnt_L_ring4
+    100048: character_upstairs_m:bkJnt_L_shin
+    100050: character_upstairs_m:bkJnt_L_thigh
+    100052: character_upstairs_m:bkJnt_L_thumb1
+    100054: character_upstairs_m:bkJnt_L_thumb2
+    100056: character_upstairs_m:bkJnt_L_thumb3
+    100058: character_upstairs_m:bkJnt_L_toe
+    100060: character_upstairs_m:bkJnt_L_upperArm
+    100062: character_upstairs_m:bkJnt_L_wrist
+    100064: character_upstairs_m:bkJnt_neck
+    100066: character_upstairs_m:bkJnt_pelvis
+    100068: character_upstairs_m:bkJnt_R_ball
+    100070: character_upstairs_m:bkJnt_R_clavicle
+    100072: character_upstairs_m:bkJnt_R_eye
+    100074: character_upstairs_m:bkJnt_R_index1
+    100076: character_upstairs_m:bkJnt_R_index2
+    100078: character_upstairs_m:bkJnt_R_index3
+    100080: character_upstairs_m:bkJnt_R_index4
+    100082: character_upstairs_m:bkJnt_R_lowerArm
+    100084: character_upstairs_m:bkJnt_R_middle1
+    100086: character_upstairs_m:bkJnt_R_middle2
+    100088: character_upstairs_m:bkJnt_R_middle3
+    100090: character_upstairs_m:bkJnt_R_middle4
+    100092: character_upstairs_m:bkJnt_R_pinky1
+    100094: character_upstairs_m:bkJnt_R_pinky2
+    100096: character_upstairs_m:bkJnt_R_pinky3
+    100098: character_upstairs_m:bkJnt_R_pinky4
+    100100: character_upstairs_m:bkJnt_R_ring1
+    100102: character_upstairs_m:bkJnt_R_ring2
+    100104: character_upstairs_m:bkJnt_R_ring3
+    100106: character_upstairs_m:bkJnt_R_ring4
+    100108: character_upstairs_m:bkJnt_R_shin
+    100110: character_upstairs_m:bkJnt_R_thigh
+    100112: character_upstairs_m:bkJnt_R_thumb1
+    100114: character_upstairs_m:bkJnt_R_thumb2
+    100116: character_upstairs_m:bkJnt_R_thumb3
+    100118: character_upstairs_m:bkJnt_R_toe
+    100120: character_upstairs_m:bkJnt_R_upperArm
+    100122: character_upstairs_m:bkJnt_R_wrist
+    100124: character_upstairs_m:bkJnt_root
+    100126: character_upstairs_m:bkJntDrv_head
+    100128: character_upstairs_m:bkJntDrv_jaw
+    100130: character_upstairs_m:bkJntDrv_L_clavicle
+    100132: character_upstairs_m:bkJntDrv_L_eye
+    100134: character_upstairs_m:bkJntDrv_L_shoulder
+    100136: character_upstairs_m:bkJntDrv_R_clavicle
+    100138: character_upstairs_m:bkJntDrv_R_eye
+    100140: character_upstairs_m:bkJntDrv_R_shoulder
+    100142: character_upstairs_m:bkJntEnd_headTop
+    100144: character_upstairs_m:bkJntEnd_jaw
+    100146: character_upstairs_m:bkJntEnd_L_index
+    100148: character_upstairs_m:bkJntEnd_L_middle
+    100150: character_upstairs_m:bkJntEnd_L_pinky
+    100152: character_upstairs_m:bkJntEnd_L_ring
+    100154: character_upstairs_m:bkJntEnd_L_thumb
+    100156: character_upstairs_m:bkJntEnd_L_toeTip
+    100158: character_upstairs_m:bkJntEnd_R_index
+    100160: character_upstairs_m:bkJntEnd_R_middle
+    100162: character_upstairs_m:bkJntEnd_R_pinky
+    100164: character_upstairs_m:bkJntEnd_R_thumb
+    100166: character_upstairs_m:bkJntEnd_R_toeTip
+    100168: character_upstairs_m:bkJntMir_R_arm
+    100170: character_upstairs_m:bkJntMir_R_leg
+    100172: character_upstairs_m:characteR_upstairs_m
+    100174: character_upstairs_m:ctrl_back_FK
+    100176: character_upstairs_m:ctrl_chest_FK
+    100178: character_upstairs_m:ctrl_head_FK
+    100180: character_upstairs_m:ctrl_jaw_attributes
+    100182: character_upstairs_m:ctrl_jaw_FK
+    100184: character_upstairs_m:ctrl_L_ankle_FK
+    100186: character_upstairs_m:ctrl_L_clavicle_FK
+    100188: character_upstairs_m:ctrl_L_elbow_FK
+    100190: character_upstairs_m:ctrl_L_eye
+    100192: character_upstairs_m:ctrl_L_hand_attributes
+    100194: character_upstairs_m:ctrl_L_hand_FK
+    100196: character_upstairs_m:ctrl_L_knee_FK
+    100198: character_upstairs_m:ctrl_L_leg_attributes
+    100200: character_upstairs_m:ctrl_L_shoulder_FK
+    100202: character_upstairs_m:ctrl_L_thigh_FK
+    100204: character_upstairs_m:ctrl_L_toe_FK
+    100206: character_upstairs_m:ctrl_lowerSpine_attributes
+    100208: character_upstairs_m:ctrl_master
+    100210: character_upstairs_m:ctrl_neck_FK
+    100212: character_upstairs_m:ctrl_pelvis_FK
+    100214: character_upstairs_m:ctrl_R_ankle_FK
+    100216: character_upstairs_m:ctrl_R_clavicle_FK
+    100218: character_upstairs_m:ctrl_R_elbow_FK
+    100220: character_upstairs_m:ctrl_R_eye
+    100222: character_upstairs_m:ctrl_R_hand_attributes
+    100224: character_upstairs_m:ctrl_R_hand_FK
+    100226: character_upstairs_m:ctrl_R_knee_FK
+    100228: character_upstairs_m:ctrl_R_leg_attributes
+    100230: character_upstairs_m:ctrl_R_shoulder_FK
+    100232: character_upstairs_m:ctrl_R_thigh_FK
+    100234: character_upstairs_m:ctrl_R_toe_FK
+    100236: character_upstairs_m:ctrl_root
+    100238: character_upstairs_m:ctrl_root_IK
+    100240: character_upstairs_m:ctrl_upperSpine_attributes
+    100242: character_upstairs_m:grp_bakeJoints
+    100244: character_upstairs_m:grp_ctrl
+    100246: character_upstairs_m:grp_ctrlRig_globalScale
+    100248: character_upstairs_m:grp_ctrlRig_scale
+    100250: character_upstairs_m:grp_hold_arms
+    100252: character_upstairs_m:grp_hold_body
+    100254: character_upstairs_m:grp_hold_fingers
+    100256: character_upstairs_m:grp_hold_legs
+    100258: character_upstairs_m:grp_holds
+    100260: character_upstairs_m:grp_joints
+    100262: character_upstairs_m:grp_rootCtrl
+    100264: character_upstairs_m:grp_rootCtrl_orient
+    100266: character_upstairs_m:grp_rootCtrl_orient_offset
+    100268: character_upstairs_m:grp_rootCtrl_pos
+    100270: character_upstairs_m:grp_rootCtrl_pos_offset
+    100272: character_upstairs_m:grp_rootParent
+    100274: character_upstairs_m:grp_scalePoints
+    100276: character_upstairs_m:grp_scaleRig
+    100278: character_upstairs_m:grpCtrl_attributes
+    100280: character_upstairs_m:grpCtrl_back_FK
+    100282: character_upstairs_m:grpCtrl_chest_FK
+    100284: character_upstairs_m:grpCtrl_clavicles
+    100286: character_upstairs_m:grpCtrl_face
+    100288: character_upstairs_m:grpCtrl_head_FK
+    100290: character_upstairs_m:grpCtrl_jaw_attrs
+    100292: character_upstairs_m:grpCtrl_jaw_FK
+    100294: character_upstairs_m:grpCtrl_L_ankle
+    100296: character_upstairs_m:grpCtrl_L_clavicle_FK
+    100298: character_upstairs_m:grpCtrl_L_clavicle_L_root
+    100300: character_upstairs_m:grpCtrl_L_elbow_FK
+    100302: character_upstairs_m:grpCtrl_L_eye
+    100304: character_upstairs_m:grpCtrl_L_eyeOri
+    100306: character_upstairs_m:grpCtrl_L_hand_attrs
+    100308: character_upstairs_m:grpCtrl_L_hand_attrs_pos
+    100310: character_upstairs_m:grpCtrl_L_hand_FK
+    100312: character_upstairs_m:grpCtrl_L_knee_FK
+    100314: character_upstairs_m:grpCtrl_L_leg_attrs
+    100316: character_upstairs_m:grpCtrl_L_shoulder_FK
+    100318: character_upstairs_m:grpCtrl_L_shoulder_FK_root
+    100320: character_upstairs_m:grpCtrl_L_thigh_FK
+    100322: character_upstairs_m:grpCtrl_L_toe_FK
+    100324: character_upstairs_m:grpCtrl_legs_FK
+    100326: character_upstairs_m:grpCtrl_lowerSpine_attrs
+    100328: character_upstairs_m:grpCtrl_neck_FK
+    100330: character_upstairs_m:grpCtrl_pelvis_FK
+    100332: character_upstairs_m:grpCtrl_pelvis_FK_root
+    100334: character_upstairs_m:grpCtrl_R_ankle_FK
+    100336: character_upstairs_m:grpCtrl_R_clavicle_FK
+    100338: character_upstairs_m:grpCtrl_R_clavicle_root
+    100340: character_upstairs_m:grpCtrl_R_elbow_FK
+    100342: character_upstairs_m:grpCtrl_R_eye
+    100344: character_upstairs_m:grpCtrl_R_eyeOri
+    100346: character_upstairs_m:grpCtrl_R_hand_attrs
+    100348: character_upstairs_m:grpCtrl_R_hand_attrs_pos
+    100350: character_upstairs_m:grpCtrl_R_hand_FK
+    100352: character_upstairs_m:grpCtrl_R_knee_FK
+    100354: character_upstairs_m:grpCtrl_R_leg_attrs
+    100356: character_upstairs_m:grpCtrl_R_mir_eye
+    100358: character_upstairs_m:grpCtrl_R_shoulder_FK
+    100360: character_upstairs_m:grpCtrl_R_shoulder_FK_root
+    100362: character_upstairs_m:grpCtrl_R_thigh_FK
+    100364: character_upstairs_m:grpCtrl_R_toe_FK
+    100366: character_upstairs_m:grpCtrl_root_IK
+    100368: character_upstairs_m:grpCtrl_upperSpine_attrs
+    100370: character_upstairs_m:grpMir_R_armCtrl_FK
+    100372: character_upstairs_m:grpMir_R_legCtrl_FK
+    100374: character_upstairs_m:grpOri_L_eye_bake
+    100376: character_upstairs_m:grpOri_R_eye_bake
+    100378: character_upstairs_m:grpPos_L_eye
+    100380: character_upstairs_m:grpPos_R_eye
+    100382: character_upstairs_m:jntBnd_back
+    100384: character_upstairs_m:jntBnd_chest
+    100386: character_upstairs_m:jntBnd_head
+    100388: character_upstairs_m:jntBnd_hips
+    100390: character_upstairs_m:jntBnd_L_ball
+    100392: character_upstairs_m:jntBnd_L_clavicle
+    100394: character_upstairs_m:jntBnd_L_index1
+    100396: character_upstairs_m:jntBnd_L_index2
+    100398: character_upstairs_m:jntBnd_L_index3
+    100400: character_upstairs_m:jntBnd_L_index4
+    100402: character_upstairs_m:jntBnd_L_middle1
+    100404: character_upstairs_m:jntBnd_L_middle2
+    100406: character_upstairs_m:jntBnd_L_middle3
+    100408: character_upstairs_m:jntBnd_L_middle4
+    100410: character_upstairs_m:jntBnd_L_pinky1
+    100412: character_upstairs_m:jntBnd_L_pinky2
+    100414: character_upstairs_m:jntBnd_L_pinky3
+    100416: character_upstairs_m:jntBnd_L_pinky4
+    100418: character_upstairs_m:jntBnd_L_ring1
+    100420: character_upstairs_m:jntBnd_L_ring2
+    100422: character_upstairs_m:jntBnd_L_ring3
+    100424: character_upstairs_m:jntBnd_L_ring4
+    100426: character_upstairs_m:jntBnd_L_thumb1
+    100428: character_upstairs_m:jntBnd_L_thumb2
+    100430: character_upstairs_m:jntBnd_L_thumb3
+    100432: character_upstairs_m:jntBnd_L_toe
+    100434: character_upstairs_m:jntBnd_L_wrist
+    100436: character_upstairs_m:jntBnd_neck
+    100438: character_upstairs_m:jntBnd_pelvis
+    100440: character_upstairs_m:jntBnd_R_ball
+    100442: character_upstairs_m:jntBnd_R_clavicle
+    100444: character_upstairs_m:jntBnd_R_index1
+    100446: character_upstairs_m:jntBnd_R_index2
+    100448: character_upstairs_m:jntBnd_R_index3
+    100450: character_upstairs_m:jntBnd_R_index4
+    100452: character_upstairs_m:jntBnd_R_middle1
+    100454: character_upstairs_m:jntBnd_R_middle2
+    100456: character_upstairs_m:jntBnd_R_middle3
+    100458: character_upstairs_m:jntBnd_R_middle4
+    100460: character_upstairs_m:jntBnd_R_pinky1
+    100462: character_upstairs_m:jntBnd_R_pinky2
+    100464: character_upstairs_m:jntBnd_R_pinky3
+    100466: character_upstairs_m:jntBnd_R_pinky4
+    100468: character_upstairs_m:jntBnd_R_ring1
+    100470: character_upstairs_m:jntBnd_R_ring2
+    100472: character_upstairs_m:jntBnd_R_ring3
+    100474: character_upstairs_m:jntBnd_R_ring4
+    100476: character_upstairs_m:jntBnd_R_thumb1
+    100478: character_upstairs_m:jntBnd_R_thumb2
+    100480: character_upstairs_m:jntBnd_R_thumb3
+    100482: character_upstairs_m:jntBnd_R_toe
+    100484: character_upstairs_m:jntBnd_R_wrist
+    100486: character_upstairs_m:jntBnd_root
+    100488: character_upstairs_m:jntBndEye_L_
+    100490: character_upstairs_m:jntBndEye_R_
+    100492: character_upstairs_m:jntBndFace_jaw
+    100494: character_upstairs_m:jntBndFaceStr_lowerLip_mid
+    100496: character_upstairs_m:jntDrv_L_clavicle
+    100498: character_upstairs_m:jntDrv_L_lowerArm
+    100500: character_upstairs_m:jntDrv_L_shin
+    100502: character_upstairs_m:jntDrv_L_thigh
+    100504: character_upstairs_m:jntDrv_L_upperArm
+    100506: character_upstairs_m:jntDrv_R_clavicle
+    100508: character_upstairs_m:jntDrv_R_lowerArm
+    100510: character_upstairs_m:jntDrv_R_shin
+    100512: character_upstairs_m:jntDrv_R_thigh
+    100514: character_upstairs_m:jntDrv_R_upperArm
+    100516: character_upstairs_m:jntDrvIK_back
+    100518: character_upstairs_m:jntDrvIK_chest
+    100520: character_upstairs_m:jntDrvIK_head
+    100522: character_upstairs_m:jntDrvIK_jaw
+    100524: character_upstairs_m:jntDrvIK_L_ball
+    100526: character_upstairs_m:jntDrvIK_L_lowerArm
+    100528: character_upstairs_m:jntDrvIK_L_shin
+    100530: character_upstairs_m:jntDrvIK_L_thigh
+    100532: character_upstairs_m:jntDrvIK_L_toe
+    100534: character_upstairs_m:jntDrvIK_L_upperArm
+    100536: character_upstairs_m:jntDrvIK_L_wrist
+    100538: character_upstairs_m:jntDrvIK_neck
+    100540: character_upstairs_m:jntDrvIK_pelvis
+    100542: character_upstairs_m:jntDrvIK_R_ball
+    100544: character_upstairs_m:jntDrvIK_R_lowerArm
+    100546: character_upstairs_m:jntDrvIK_R_shin
+    100548: character_upstairs_m:jntDrvIK_R_thigh
+    100550: character_upstairs_m:jntDrvIK_R_toe
+    100552: character_upstairs_m:jntDrvIK_R_upperArm
+    100554: character_upstairs_m:jntDrvIK_R_wrist
+    100556: character_upstairs_m:jntEnd_head
+    100558: character_upstairs_m:jntEnd_L_index
+    100560: character_upstairs_m:jntEnd_L_middle
+    100562: character_upstairs_m:jntEnd_L_pinky
+    100564: character_upstairs_m:jntEnd_L_ring
+    100566: character_upstairs_m:jntEnd_L_thumb
+    100568: character_upstairs_m:jntEnd_L_toe
+    100570: character_upstairs_m:jntEnd_R_index
+    100572: character_upstairs_m:jntEnd_R_middle
+    100574: character_upstairs_m:jntEnd_R_pinky
+    100576: character_upstairs_m:jntEnd_R_ring
+    100578: character_upstairs_m:jntEnd_R_ring 1
+    100580: character_upstairs_m:jntEnd_R_thumb
+    100582: character_upstairs_m:jntEnd_R_toe
+    100584: character_upstairs_m:jntGrp_eyes
+    100586: character_upstairs_m:jntGrp_face
+    100588: character_upstairs_m:jntGrp_L_eye
+    100590: character_upstairs_m:jntGrp_pos_jaw
+    100592: character_upstairs_m:jntGrp_R_eye
+    100594: character_upstairs_m:jntGrp_R_mir_arm
+    100596: character_upstairs_m:jntGrp_R_mir_eye
+    100598: character_upstairs_m:jntGrp_R_mir_shin
+    100600: character_upstairs_m:loc_masterConstraint
+    100602: character_upstairs_m:loc_rootConstraint
+    100604: character_upstairs_m:scalePoint_ankle
+    100606: character_upstairs_m:scalePoint_back
+    100608: character_upstairs_m:scalePoint_ball
+    100610: character_upstairs_m:scalePoint_body_upAxis
+    100612: character_upstairs_m:scalePoint_chest
+    100614: character_upstairs_m:scalePoint_clavicle
+    100616: character_upstairs_m:scalePoint_elbow
+    100618: character_upstairs_m:scalePoint_eye
+    100620: character_upstairs_m:scalePoint_eye_aim
+    100622: character_upstairs_m:scalePoint_hand_aim
+    100624: character_upstairs_m:scalePoint_hand_upAxis
+    100626: character_upstairs_m:scalePoint_head
+    100628: character_upstairs_m:scalePoint_headTop
+    100630: character_upstairs_m:scalePoint_hip
+    100632: character_upstairs_m:scalePoint_index1
+    100634: character_upstairs_m:scalePoint_index2
+    100636: character_upstairs_m:scalePoint_index3
+    100638: character_upstairs_m:scalePoint_index4
+    100640: character_upstairs_m:scalePoint_index_end
+    100642: character_upstairs_m:scalePoint_index_upAxis
+    100644: character_upstairs_m:scalePoint_jawEnd
+    100646: character_upstairs_m:scalePoint_jawStart
+    100648: character_upstairs_m:scalePoint_knee
+    100650: character_upstairs_m:scalePoint_middle1
+    100652: character_upstairs_m:scalePoint_middle2
+    100654: character_upstairs_m:scalePoint_middle3
+    100656: character_upstairs_m:scalePoint_middle4
+    100658: character_upstairs_m:scalePoint_middle_end
+    100660: character_upstairs_m:scalePoint_middle_upAxis
+    100662: character_upstairs_m:scalePoint_neck
+    100664: character_upstairs_m:scalePoint_pelvis
+    100666: character_upstairs_m:scalePoint_pinky1
+    100668: character_upstairs_m:scalePoint_pinky2
+    100670: character_upstairs_m:scalePoint_pinky3
+    100672: character_upstairs_m:scalePoint_pinky4
+    100674: character_upstairs_m:scalePoint_pinky_end
+    100676: character_upstairs_m:scalePoint_pinky_upAxis
+    100678: character_upstairs_m:scalePoint_ring1
+    100680: character_upstairs_m:scalePoint_ring2
+    100682: character_upstairs_m:scalePoint_ring3
+    100684: character_upstairs_m:scalePoint_ring4
+    100686: character_upstairs_m:scalePoint_ring_end
+    100688: character_upstairs_m:scalePoint_ring_upAxis
+    100690: character_upstairs_m:scalePoint_shoulder
+    100692: character_upstairs_m:scalePoint_thumb1
+    100694: character_upstairs_m:scalePoint_thumb2
+    100696: character_upstairs_m:scalePoint_thumb3
+    100698: character_upstairs_m:scalePoint_thumb_end
+    100700: character_upstairs_m:scalePoint_thumb_upAxis
+    100702: character_upstairs_m:scalePoint_toe
+    100704: character_upstairs_m:scalePoint_wrist
+    100706: character_upstairs_m:scalePoints_master
+    100708: character_upstairs_m:sp_grp_ankle
+    100710: character_upstairs_m:sp_grp_back
+    100712: character_upstairs_m:sp_grp_ball
+    100714: character_upstairs_m:sp_grp_body_upAxis
+    100716: character_upstairs_m:sp_grp_chest
+    100718: character_upstairs_m:sp_grp_clavicle
+    100720: character_upstairs_m:sp_grp_elbow
+    100722: character_upstairs_m:sp_grp_eye
+    100724: character_upstairs_m:sp_grp_eye_aim
+    100726: character_upstairs_m:sp_grp_face
+    100728: character_upstairs_m:sp_grp_hand_aim
+    100730: character_upstairs_m:sp_grp_hand_upAxis
+    100732: character_upstairs_m:sp_grp_head
+    100734: character_upstairs_m:sp_grp_headTop
+    100736: character_upstairs_m:sp_grp_hip
+    100738: character_upstairs_m:sp_grp_index
+    100740: character_upstairs_m:sp_grp_index1
+    100742: character_upstairs_m:sp_grp_index2
+    100744: character_upstairs_m:sp_grp_index3
+    100746: character_upstairs_m:sp_grp_index4
+    100748: character_upstairs_m:sp_grp_index_end
+    100750: character_upstairs_m:sp_grp_index_upAxis
+    100752: character_upstairs_m:sp_grp_jawEnd
+    100754: character_upstairs_m:sp_grp_jawStart
+    100756: character_upstairs_m:sp_grp_knee
+    100758: character_upstairs_m:sp_grp_middle
+    100760: character_upstairs_m:sp_grp_middle1
+    100762: character_upstairs_m:sp_grp_middle2
+    100764: character_upstairs_m:sp_grp_middle3
+    100766: character_upstairs_m:sp_grp_middle4
+    100768: character_upstairs_m:sp_grp_middle_end
+    100770: character_upstairs_m:sp_grp_middle_upAxis
+    100772: character_upstairs_m:sp_grp_neck
+    100774: character_upstairs_m:sp_grp_pelvis
+    100776: character_upstairs_m:sp_grp_pinky
+    100778: character_upstairs_m:sp_grp_pinky1
+    100780: character_upstairs_m:sp_grp_pinky2
+    100782: character_upstairs_m:sp_grp_pinky3
+    100784: character_upstairs_m:sp_grp_pinky4
+    100786: character_upstairs_m:sp_grp_pinky_end
+    100788: character_upstairs_m:sp_grp_pinky_upAxis
+    100790: character_upstairs_m:sp_grp_ring
+    100792: character_upstairs_m:sp_grp_ring1
+    100794: character_upstairs_m:sp_grp_ring2
+    100796: character_upstairs_m:sp_grp_ring3
+    100798: character_upstairs_m:sp_grp_ring4
+    100800: character_upstairs_m:sp_grp_ring_end
+    100802: character_upstairs_m:sp_grp_ring_upAxis
+    100804: character_upstairs_m:sp_grp_shoulder
+    100806: character_upstairs_m:sp_grp_thumb
+    100808: character_upstairs_m:sp_grp_thumb1
+    100810: character_upstairs_m:sp_grp_thumb2
+    100812: character_upstairs_m:sp_grp_thumb3
+    100814: character_upstairs_m:sp_grp_thumb_end
+    100816: character_upstairs_m:sp_grp_thumb_upAxis
+    100818: character_upstairs_m:sp_grp_toe
+    100820: character_upstairs_m:sp_grp_wrist
+    100822: character_upstairs_m:sr_grp_ankle
+    100824: character_upstairs_m:sr_grp_back
+    100826: character_upstairs_m:sr_grp_ball
+    100828: character_upstairs_m:sr_grp_chest
+    100830: character_upstairs_m:sr_grp_clavicle
+    100832: character_upstairs_m:sr_grp_clavicle_root
+    100834: character_upstairs_m:sr_grp_elbow
+    100836: character_upstairs_m:sr_grp_eye
+    100838: character_upstairs_m:sr_grp_head
+    100840: character_upstairs_m:sr_grp_headTop
+    100842: character_upstairs_m:sr_grp_hip
+    100844: character_upstairs_m:sr_grp_hipCenter
+    100846: character_upstairs_m:sr_grp_index1
+    100848: character_upstairs_m:sr_grp_index2
+    100850: character_upstairs_m:sr_grp_index3
+    100852: character_upstairs_m:sr_grp_index4
+    100854: character_upstairs_m:sr_grp_index_end
+    100856: character_upstairs_m:sr_grp_jawEnd
+    100858: character_upstairs_m:sr_grp_jawStart
+    100860: character_upstairs_m:sr_grp_knee
+    100862: character_upstairs_m:sr_grp_middle1
+    100864: character_upstairs_m:sr_grp_middle2
+    100866: character_upstairs_m:sr_grp_middle3
+    100868: character_upstairs_m:sr_grp_middle4
+    100870: character_upstairs_m:sr_grp_middle_end
+    100872: character_upstairs_m:sr_grp_neck
+    100874: character_upstairs_m:sr_grp_pelvis
+    100876: character_upstairs_m:sr_grp_pinky1
+    100878: character_upstairs_m:sr_grp_pinky2
+    100880: character_upstairs_m:sr_grp_pinky3
+    100882: character_upstairs_m:sr_grp_pinky4
+    100884: character_upstairs_m:sr_grp_pinky_end
+    100886: character_upstairs_m:sr_grp_ring1
+    100888: character_upstairs_m:sr_grp_ring2
+    100890: character_upstairs_m:sr_grp_ring3
+    100892: character_upstairs_m:sr_grp_ring4
+    100894: character_upstairs_m:sr_grp_ring_end
+    100896: character_upstairs_m:sr_grp_root
+    100898: character_upstairs_m:sr_grp_rootCtrl
+    100900: character_upstairs_m:sr_grp_rootCtrl_offset
+    100902: character_upstairs_m:sr_grp_shoulder
+    100904: character_upstairs_m:sr_grp_thumb1
+    100906: character_upstairs_m:sr_grp_thumb2
+    100908: character_upstairs_m:sr_grp_thumb3
+    100910: character_upstairs_m:sr_grp_thumb_end
+    100912: character_upstairs_m:sr_grp_toe
+    100914: character_upstairs_m:sr_grp_wrist
+    100916: character_upstairs_m:sr_grpAim_elbow
+    100918: character_upstairs_m:sr_grpAim_foot
+    100920: character_upstairs_m:sr_grpAim_knee
+    100922: character_upstairs_m:sr_grpOri_chest
+    100924: character_upstairs_m:sr_grpOri_foot
+    100926: character_upstairs_m:sr_grpOri_hand
+    100928: character_upstairs_m:sr_grpOri_hand_aim
+    100930: character_upstairs_m:sr_grpOri_hand_upAxis
+    100932: character_upstairs_m:sr_grpOri_head
+    100934: character_upstairs_m:sr_grpOri_index
+    100936: character_upstairs_m:sr_grpOri_middle
+    100938: character_upstairs_m:sr_grpOri_pinky
+    100940: character_upstairs_m:sr_grpOri_ring
+    100942: character_upstairs_m:sr_grpOri_thumb
+    100944: character_upstairs_m:sr_grpOri_toe
+    100946: //RootNode
+    100948: cup_upstairs:cup_upstairs
+    100950: cup_upstairs_customer:ctrl_cup
+    100952: cup_upstairs_customer:cup_upstairs
+    100954: cup_upstairs_customer:cup_upstairs 1
+    100956: cup_upstairs_customer:jntBnd_root
+    400000: character_upstairs_m:bkJnt_back
+    400002: character_upstairs_m:bkJnt_chest
+    400004: character_upstairs_m:bkJnt_head
+    400006: character_upstairs_m:bkJnt_jaw
+    400008: character_upstairs_m:bkJnt_L_ball
+    400010: character_upstairs_m:bkJnt_L_clavicle
+    400012: character_upstairs_m:bkJnt_L_eye
+    400014: character_upstairs_m:bkJnt_L_index1
+    400016: character_upstairs_m:bkJnt_L_index2
+    400018: character_upstairs_m:bkJnt_L_index3
+    400020: character_upstairs_m:bkJnt_L_index4
+    400022: character_upstairs_m:bkJnt_L_lowerArm
+    400024: character_upstairs_m:bkJnt_L_middle1
+    400026: character_upstairs_m:bkJnt_L_middle2
+    400028: character_upstairs_m:bkJnt_L_middle3
+    400030: character_upstairs_m:bkJnt_L_middle4
+    400032: character_upstairs_m:bkJnt_L_pinky1
+    400034: character_upstairs_m:bkJnt_L_pinky2
+    400036: character_upstairs_m:bkJnt_L_pinky3
+    400038: character_upstairs_m:bkJnt_L_pinky4
+    400040: character_upstairs_m:bkJnt_L_ring1
+    400042: character_upstairs_m:bkJnt_L_ring2
+    400044: character_upstairs_m:bkJnt_L_ring3
+    400046: character_upstairs_m:bkJnt_L_ring4
+    400048: character_upstairs_m:bkJnt_L_shin
+    400050: character_upstairs_m:bkJnt_L_thigh
+    400052: character_upstairs_m:bkJnt_L_thumb1
+    400054: character_upstairs_m:bkJnt_L_thumb2
+    400056: character_upstairs_m:bkJnt_L_thumb3
+    400058: character_upstairs_m:bkJnt_L_toe
+    400060: character_upstairs_m:bkJnt_L_upperArm
+    400062: character_upstairs_m:bkJnt_L_wrist
+    400064: character_upstairs_m:bkJnt_neck
+    400066: character_upstairs_m:bkJnt_pelvis
+    400068: character_upstairs_m:bkJnt_R_ball
+    400070: character_upstairs_m:bkJnt_R_clavicle
+    400072: character_upstairs_m:bkJnt_R_eye
+    400074: character_upstairs_m:bkJnt_R_index1
+    400076: character_upstairs_m:bkJnt_R_index2
+    400078: character_upstairs_m:bkJnt_R_index3
+    400080: character_upstairs_m:bkJnt_R_index4
+    400082: character_upstairs_m:bkJnt_R_lowerArm
+    400084: character_upstairs_m:bkJnt_R_middle1
+    400086: character_upstairs_m:bkJnt_R_middle2
+    400088: character_upstairs_m:bkJnt_R_middle3
+    400090: character_upstairs_m:bkJnt_R_middle4
+    400092: character_upstairs_m:bkJnt_R_pinky1
+    400094: character_upstairs_m:bkJnt_R_pinky2
+    400096: character_upstairs_m:bkJnt_R_pinky3
+    400098: character_upstairs_m:bkJnt_R_pinky4
+    400100: character_upstairs_m:bkJnt_R_ring1
+    400102: character_upstairs_m:bkJnt_R_ring2
+    400104: character_upstairs_m:bkJnt_R_ring3
+    400106: character_upstairs_m:bkJnt_R_ring4
+    400108: character_upstairs_m:bkJnt_R_shin
+    400110: character_upstairs_m:bkJnt_R_thigh
+    400112: character_upstairs_m:bkJnt_R_thumb1
+    400114: character_upstairs_m:bkJnt_R_thumb2
+    400116: character_upstairs_m:bkJnt_R_thumb3
+    400118: character_upstairs_m:bkJnt_R_toe
+    400120: character_upstairs_m:bkJnt_R_upperArm
+    400122: character_upstairs_m:bkJnt_R_wrist
+    400124: character_upstairs_m:bkJnt_root
+    400126: character_upstairs_m:bkJntDrv_head
+    400128: character_upstairs_m:bkJntDrv_jaw
+    400130: character_upstairs_m:bkJntDrv_L_clavicle
+    400132: character_upstairs_m:bkJntDrv_L_eye
+    400134: character_upstairs_m:bkJntDrv_L_shoulder
+    400136: character_upstairs_m:bkJntDrv_R_clavicle
+    400138: character_upstairs_m:bkJntDrv_R_eye
+    400140: character_upstairs_m:bkJntDrv_R_shoulder
+    400142: character_upstairs_m:bkJntEnd_headTop
+    400144: character_upstairs_m:bkJntEnd_jaw
+    400146: character_upstairs_m:bkJntEnd_L_index
+    400148: character_upstairs_m:bkJntEnd_L_middle
+    400150: character_upstairs_m:bkJntEnd_L_pinky
+    400152: character_upstairs_m:bkJntEnd_L_ring
+    400154: character_upstairs_m:bkJntEnd_L_thumb
+    400156: character_upstairs_m:bkJntEnd_L_toeTip
+    400158: character_upstairs_m:bkJntEnd_R_index
+    400160: character_upstairs_m:bkJntEnd_R_middle
+    400162: character_upstairs_m:bkJntEnd_R_pinky
+    400164: character_upstairs_m:bkJntEnd_R_thumb
+    400166: character_upstairs_m:bkJntEnd_R_toeTip
+    400168: character_upstairs_m:bkJntMir_R_arm
+    400170: character_upstairs_m:bkJntMir_R_leg
+    400172: character_upstairs_m:characteR_upstairs_m
+    400174: character_upstairs_m:ctrl_back_FK
+    400176: character_upstairs_m:ctrl_chest_FK
+    400178: character_upstairs_m:ctrl_head_FK
+    400180: character_upstairs_m:ctrl_jaw_attributes
+    400182: character_upstairs_m:ctrl_jaw_FK
+    400184: character_upstairs_m:ctrl_L_ankle_FK
+    400186: character_upstairs_m:ctrl_L_clavicle_FK
+    400188: character_upstairs_m:ctrl_L_elbow_FK
+    400190: character_upstairs_m:ctrl_L_eye
+    400192: character_upstairs_m:ctrl_L_hand_attributes
+    400194: character_upstairs_m:ctrl_L_hand_FK
+    400196: character_upstairs_m:ctrl_L_knee_FK
+    400198: character_upstairs_m:ctrl_L_leg_attributes
+    400200: character_upstairs_m:ctrl_L_shoulder_FK
+    400202: character_upstairs_m:ctrl_L_thigh_FK
+    400204: character_upstairs_m:ctrl_L_toe_FK
+    400206: character_upstairs_m:ctrl_lowerSpine_attributes
+    400208: character_upstairs_m:ctrl_master
+    400210: character_upstairs_m:ctrl_neck_FK
+    400212: character_upstairs_m:ctrl_pelvis_FK
+    400214: character_upstairs_m:ctrl_R_ankle_FK
+    400216: character_upstairs_m:ctrl_R_clavicle_FK
+    400218: character_upstairs_m:ctrl_R_elbow_FK
+    400220: character_upstairs_m:ctrl_R_eye
+    400222: character_upstairs_m:ctrl_R_hand_attributes
+    400224: character_upstairs_m:ctrl_R_hand_FK
+    400226: character_upstairs_m:ctrl_R_knee_FK
+    400228: character_upstairs_m:ctrl_R_leg_attributes
+    400230: character_upstairs_m:ctrl_R_shoulder_FK
+    400232: character_upstairs_m:ctrl_R_thigh_FK
+    400234: character_upstairs_m:ctrl_R_toe_FK
+    400236: character_upstairs_m:ctrl_root
+    400238: character_upstairs_m:ctrl_root_IK
+    400240: character_upstairs_m:ctrl_upperSpine_attributes
+    400242: character_upstairs_m:grp_bakeJoints
+    400244: character_upstairs_m:grp_ctrl
+    400246: character_upstairs_m:grp_ctrlRig_globalScale
+    400248: character_upstairs_m:grp_ctrlRig_scale
+    400250: character_upstairs_m:grp_hold_arms
+    400252: character_upstairs_m:grp_hold_body
+    400254: character_upstairs_m:grp_hold_fingers
+    400256: character_upstairs_m:grp_hold_legs
+    400258: character_upstairs_m:grp_holds
+    400260: character_upstairs_m:grp_joints
+    400262: character_upstairs_m:grp_rootCtrl
+    400264: character_upstairs_m:grp_rootCtrl_orient
+    400266: character_upstairs_m:grp_rootCtrl_orient_offset
+    400268: character_upstairs_m:grp_rootCtrl_pos
+    400270: character_upstairs_m:grp_rootCtrl_pos_offset
+    400272: character_upstairs_m:grp_rootParent
+    400274: character_upstairs_m:grp_scalePoints
+    400276: character_upstairs_m:grp_scaleRig
+    400278: character_upstairs_m:grpCtrl_attributes
+    400280: character_upstairs_m:grpCtrl_back_FK
+    400282: character_upstairs_m:grpCtrl_chest_FK
+    400284: character_upstairs_m:grpCtrl_clavicles
+    400286: character_upstairs_m:grpCtrl_face
+    400288: character_upstairs_m:grpCtrl_head_FK
+    400290: character_upstairs_m:grpCtrl_jaw_attrs
+    400292: character_upstairs_m:grpCtrl_jaw_FK
+    400294: character_upstairs_m:grpCtrl_L_ankle
+    400296: character_upstairs_m:grpCtrl_L_clavicle_FK
+    400298: character_upstairs_m:grpCtrl_L_clavicle_L_root
+    400300: character_upstairs_m:grpCtrl_L_elbow_FK
+    400302: character_upstairs_m:grpCtrl_L_eye
+    400304: character_upstairs_m:grpCtrl_L_eyeOri
+    400306: character_upstairs_m:grpCtrl_L_hand_attrs
+    400308: character_upstairs_m:grpCtrl_L_hand_attrs_pos
+    400310: character_upstairs_m:grpCtrl_L_hand_FK
+    400312: character_upstairs_m:grpCtrl_L_knee_FK
+    400314: character_upstairs_m:grpCtrl_L_leg_attrs
+    400316: character_upstairs_m:grpCtrl_L_shoulder_FK
+    400318: character_upstairs_m:grpCtrl_L_shoulder_FK_root
+    400320: character_upstairs_m:grpCtrl_L_thigh_FK
+    400322: character_upstairs_m:grpCtrl_L_toe_FK
+    400324: character_upstairs_m:grpCtrl_legs_FK
+    400326: character_upstairs_m:grpCtrl_lowerSpine_attrs
+    400328: character_upstairs_m:grpCtrl_neck_FK
+    400330: character_upstairs_m:grpCtrl_pelvis_FK
+    400332: character_upstairs_m:grpCtrl_pelvis_FK_root
+    400334: character_upstairs_m:grpCtrl_R_ankle_FK
+    400336: character_upstairs_m:grpCtrl_R_clavicle_FK
+    400338: character_upstairs_m:grpCtrl_R_clavicle_root
+    400340: character_upstairs_m:grpCtrl_R_elbow_FK
+    400342: character_upstairs_m:grpCtrl_R_eye
+    400344: character_upstairs_m:grpCtrl_R_eyeOri
+    400346: character_upstairs_m:grpCtrl_R_hand_attrs
+    400348: character_upstairs_m:grpCtrl_R_hand_attrs_pos
+    400350: character_upstairs_m:grpCtrl_R_hand_FK
+    400352: character_upstairs_m:grpCtrl_R_knee_FK
+    400354: character_upstairs_m:grpCtrl_R_leg_attrs
+    400356: character_upstairs_m:grpCtrl_R_mir_eye
+    400358: character_upstairs_m:grpCtrl_R_shoulder_FK
+    400360: character_upstairs_m:grpCtrl_R_shoulder_FK_root
+    400362: character_upstairs_m:grpCtrl_R_thigh_FK
+    400364: character_upstairs_m:grpCtrl_R_toe_FK
+    400366: character_upstairs_m:grpCtrl_root_IK
+    400368: character_upstairs_m:grpCtrl_upperSpine_attrs
+    400370: character_upstairs_m:grpMir_R_armCtrl_FK
+    400372: character_upstairs_m:grpMir_R_legCtrl_FK
+    400374: character_upstairs_m:grpOri_L_eye_bake
+    400376: character_upstairs_m:grpOri_R_eye_bake
+    400378: character_upstairs_m:grpPos_L_eye
+    400380: character_upstairs_m:grpPos_R_eye
+    400382: character_upstairs_m:jntBnd_back
+    400384: character_upstairs_m:jntBnd_chest
+    400386: character_upstairs_m:jntBnd_head
+    400388: character_upstairs_m:jntBnd_hips
+    400390: character_upstairs_m:jntBnd_L_ball
+    400392: character_upstairs_m:jntBnd_L_clavicle
+    400394: character_upstairs_m:jntBnd_L_index1
+    400396: character_upstairs_m:jntBnd_L_index2
+    400398: character_upstairs_m:jntBnd_L_index3
+    400400: character_upstairs_m:jntBnd_L_index4
+    400402: character_upstairs_m:jntBnd_L_middle1
+    400404: character_upstairs_m:jntBnd_L_middle2
+    400406: character_upstairs_m:jntBnd_L_middle3
+    400408: character_upstairs_m:jntBnd_L_middle4
+    400410: character_upstairs_m:jntBnd_L_pinky1
+    400412: character_upstairs_m:jntBnd_L_pinky2
+    400414: character_upstairs_m:jntBnd_L_pinky3
+    400416: character_upstairs_m:jntBnd_L_pinky4
+    400418: character_upstairs_m:jntBnd_L_ring1
+    400420: character_upstairs_m:jntBnd_L_ring2
+    400422: character_upstairs_m:jntBnd_L_ring3
+    400424: character_upstairs_m:jntBnd_L_ring4
+    400426: character_upstairs_m:jntBnd_L_thumb1
+    400428: character_upstairs_m:jntBnd_L_thumb2
+    400430: character_upstairs_m:jntBnd_L_thumb3
+    400432: character_upstairs_m:jntBnd_L_toe
+    400434: character_upstairs_m:jntBnd_L_wrist
+    400436: character_upstairs_m:jntBnd_neck
+    400438: character_upstairs_m:jntBnd_pelvis
+    400440: character_upstairs_m:jntBnd_R_ball
+    400442: character_upstairs_m:jntBnd_R_clavicle
+    400444: character_upstairs_m:jntBnd_R_index1
+    400446: character_upstairs_m:jntBnd_R_index2
+    400448: character_upstairs_m:jntBnd_R_index3
+    400450: character_upstairs_m:jntBnd_R_index4
+    400452: character_upstairs_m:jntBnd_R_middle1
+    400454: character_upstairs_m:jntBnd_R_middle2
+    400456: character_upstairs_m:jntBnd_R_middle3
+    400458: character_upstairs_m:jntBnd_R_middle4
+    400460: character_upstairs_m:jntBnd_R_pinky1
+    400462: character_upstairs_m:jntBnd_R_pinky2
+    400464: character_upstairs_m:jntBnd_R_pinky3
+    400466: character_upstairs_m:jntBnd_R_pinky4
+    400468: character_upstairs_m:jntBnd_R_ring1
+    400470: character_upstairs_m:jntBnd_R_ring2
+    400472: character_upstairs_m:jntBnd_R_ring3
+    400474: character_upstairs_m:jntBnd_R_ring4
+    400476: character_upstairs_m:jntBnd_R_thumb1
+    400478: character_upstairs_m:jntBnd_R_thumb2
+    400480: character_upstairs_m:jntBnd_R_thumb3
+    400482: character_upstairs_m:jntBnd_R_toe
+    400484: character_upstairs_m:jntBnd_R_wrist
+    400486: character_upstairs_m:jntBnd_root
+    400488: character_upstairs_m:jntBndEye_L_
+    400490: character_upstairs_m:jntBndEye_R_
+    400492: character_upstairs_m:jntBndFace_jaw
+    400494: character_upstairs_m:jntBndFaceStr_lowerLip_mid
+    400496: character_upstairs_m:jntDrv_L_clavicle
+    400498: character_upstairs_m:jntDrv_L_lowerArm
+    400500: character_upstairs_m:jntDrv_L_shin
+    400502: character_upstairs_m:jntDrv_L_thigh
+    400504: character_upstairs_m:jntDrv_L_upperArm
+    400506: character_upstairs_m:jntDrv_R_clavicle
+    400508: character_upstairs_m:jntDrv_R_lowerArm
+    400510: character_upstairs_m:jntDrv_R_shin
+    400512: character_upstairs_m:jntDrv_R_thigh
+    400514: character_upstairs_m:jntDrv_R_upperArm
+    400516: character_upstairs_m:jntDrvIK_back
+    400518: character_upstairs_m:jntDrvIK_chest
+    400520: character_upstairs_m:jntDrvIK_head
+    400522: character_upstairs_m:jntDrvIK_jaw
+    400524: character_upstairs_m:jntDrvIK_L_ball
+    400526: character_upstairs_m:jntDrvIK_L_lowerArm
+    400528: character_upstairs_m:jntDrvIK_L_shin
+    400530: character_upstairs_m:jntDrvIK_L_thigh
+    400532: character_upstairs_m:jntDrvIK_L_toe
+    400534: character_upstairs_m:jntDrvIK_L_upperArm
+    400536: character_upstairs_m:jntDrvIK_L_wrist
+    400538: character_upstairs_m:jntDrvIK_neck
+    400540: character_upstairs_m:jntDrvIK_pelvis
+    400542: character_upstairs_m:jntDrvIK_R_ball
+    400544: character_upstairs_m:jntDrvIK_R_lowerArm
+    400546: character_upstairs_m:jntDrvIK_R_shin
+    400548: character_upstairs_m:jntDrvIK_R_thigh
+    400550: character_upstairs_m:jntDrvIK_R_toe
+    400552: character_upstairs_m:jntDrvIK_R_upperArm
+    400554: character_upstairs_m:jntDrvIK_R_wrist
+    400556: character_upstairs_m:jntEnd_head
+    400558: character_upstairs_m:jntEnd_L_index
+    400560: character_upstairs_m:jntEnd_L_middle
+    400562: character_upstairs_m:jntEnd_L_pinky
+    400564: character_upstairs_m:jntEnd_L_ring
+    400566: character_upstairs_m:jntEnd_L_thumb
+    400568: character_upstairs_m:jntEnd_L_toe
+    400570: character_upstairs_m:jntEnd_R_index
+    400572: character_upstairs_m:jntEnd_R_middle
+    400574: character_upstairs_m:jntEnd_R_pinky
+    400576: character_upstairs_m:jntEnd_R_ring
+    400578: character_upstairs_m:jntEnd_R_ring 1
+    400580: character_upstairs_m:jntEnd_R_thumb
+    400582: character_upstairs_m:jntEnd_R_toe
+    400584: character_upstairs_m:jntGrp_eyes
+    400586: character_upstairs_m:jntGrp_face
+    400588: character_upstairs_m:jntGrp_L_eye
+    400590: character_upstairs_m:jntGrp_pos_jaw
+    400592: character_upstairs_m:jntGrp_R_eye
+    400594: character_upstairs_m:jntGrp_R_mir_arm
+    400596: character_upstairs_m:jntGrp_R_mir_eye
+    400598: character_upstairs_m:jntGrp_R_mir_shin
+    400600: character_upstairs_m:loc_masterConstraint
+    400602: character_upstairs_m:loc_rootConstraint
+    400604: character_upstairs_m:scalePoint_ankle
+    400606: character_upstairs_m:scalePoint_back
+    400608: character_upstairs_m:scalePoint_ball
+    400610: character_upstairs_m:scalePoint_body_upAxis
+    400612: character_upstairs_m:scalePoint_chest
+    400614: character_upstairs_m:scalePoint_clavicle
+    400616: character_upstairs_m:scalePoint_elbow
+    400618: character_upstairs_m:scalePoint_eye
+    400620: character_upstairs_m:scalePoint_eye_aim
+    400622: character_upstairs_m:scalePoint_hand_aim
+    400624: character_upstairs_m:scalePoint_hand_upAxis
+    400626: character_upstairs_m:scalePoint_head
+    400628: character_upstairs_m:scalePoint_headTop
+    400630: character_upstairs_m:scalePoint_hip
+    400632: character_upstairs_m:scalePoint_index1
+    400634: character_upstairs_m:scalePoint_index2
+    400636: character_upstairs_m:scalePoint_index3
+    400638: character_upstairs_m:scalePoint_index4
+    400640: character_upstairs_m:scalePoint_index_end
+    400642: character_upstairs_m:scalePoint_index_upAxis
+    400644: character_upstairs_m:scalePoint_jawEnd
+    400646: character_upstairs_m:scalePoint_jawStart
+    400648: character_upstairs_m:scalePoint_knee
+    400650: character_upstairs_m:scalePoint_middle1
+    400652: character_upstairs_m:scalePoint_middle2
+    400654: character_upstairs_m:scalePoint_middle3
+    400656: character_upstairs_m:scalePoint_middle4
+    400658: character_upstairs_m:scalePoint_middle_end
+    400660: character_upstairs_m:scalePoint_middle_upAxis
+    400662: character_upstairs_m:scalePoint_neck
+    400664: character_upstairs_m:scalePoint_pelvis
+    400666: character_upstairs_m:scalePoint_pinky1
+    400668: character_upstairs_m:scalePoint_pinky2
+    400670: character_upstairs_m:scalePoint_pinky3
+    400672: character_upstairs_m:scalePoint_pinky4
+    400674: character_upstairs_m:scalePoint_pinky_end
+    400676: character_upstairs_m:scalePoint_pinky_upAxis
+    400678: character_upstairs_m:scalePoint_ring1
+    400680: character_upstairs_m:scalePoint_ring2
+    400682: character_upstairs_m:scalePoint_ring3
+    400684: character_upstairs_m:scalePoint_ring4
+    400686: character_upstairs_m:scalePoint_ring_end
+    400688: character_upstairs_m:scalePoint_ring_upAxis
+    400690: character_upstairs_m:scalePoint_shoulder
+    400692: character_upstairs_m:scalePoint_thumb1
+    400694: character_upstairs_m:scalePoint_thumb2
+    400696: character_upstairs_m:scalePoint_thumb3
+    400698: character_upstairs_m:scalePoint_thumb_end
+    400700: character_upstairs_m:scalePoint_thumb_upAxis
+    400702: character_upstairs_m:scalePoint_toe
+    400704: character_upstairs_m:scalePoint_wrist
+    400706: character_upstairs_m:scalePoints_master
+    400708: character_upstairs_m:sp_grp_ankle
+    400710: character_upstairs_m:sp_grp_back
+    400712: character_upstairs_m:sp_grp_ball
+    400714: character_upstairs_m:sp_grp_body_upAxis
+    400716: character_upstairs_m:sp_grp_chest
+    400718: character_upstairs_m:sp_grp_clavicle
+    400720: character_upstairs_m:sp_grp_elbow
+    400722: character_upstairs_m:sp_grp_eye
+    400724: character_upstairs_m:sp_grp_eye_aim
+    400726: character_upstairs_m:sp_grp_face
+    400728: character_upstairs_m:sp_grp_hand_aim
+    400730: character_upstairs_m:sp_grp_hand_upAxis
+    400732: character_upstairs_m:sp_grp_head
+    400734: character_upstairs_m:sp_grp_headTop
+    400736: character_upstairs_m:sp_grp_hip
+    400738: character_upstairs_m:sp_grp_index
+    400740: character_upstairs_m:sp_grp_index1
+    400742: character_upstairs_m:sp_grp_index2
+    400744: character_upstairs_m:sp_grp_index3
+    400746: character_upstairs_m:sp_grp_index4
+    400748: character_upstairs_m:sp_grp_index_end
+    400750: character_upstairs_m:sp_grp_index_upAxis
+    400752: character_upstairs_m:sp_grp_jawEnd
+    400754: character_upstairs_m:sp_grp_jawStart
+    400756: character_upstairs_m:sp_grp_knee
+    400758: character_upstairs_m:sp_grp_middle
+    400760: character_upstairs_m:sp_grp_middle1
+    400762: character_upstairs_m:sp_grp_middle2
+    400764: character_upstairs_m:sp_grp_middle3
+    400766: character_upstairs_m:sp_grp_middle4
+    400768: character_upstairs_m:sp_grp_middle_end
+    400770: character_upstairs_m:sp_grp_middle_upAxis
+    400772: character_upstairs_m:sp_grp_neck
+    400774: character_upstairs_m:sp_grp_pelvis
+    400776: character_upstairs_m:sp_grp_pinky
+    400778: character_upstairs_m:sp_grp_pinky1
+    400780: character_upstairs_m:sp_grp_pinky2
+    400782: character_upstairs_m:sp_grp_pinky3
+    400784: character_upstairs_m:sp_grp_pinky4
+    400786: character_upstairs_m:sp_grp_pinky_end
+    400788: character_upstairs_m:sp_grp_pinky_upAxis
+    400790: character_upstairs_m:sp_grp_ring
+    400792: character_upstairs_m:sp_grp_ring1
+    400794: character_upstairs_m:sp_grp_ring2
+    400796: character_upstairs_m:sp_grp_ring3
+    400798: character_upstairs_m:sp_grp_ring4
+    400800: character_upstairs_m:sp_grp_ring_end
+    400802: character_upstairs_m:sp_grp_ring_upAxis
+    400804: character_upstairs_m:sp_grp_shoulder
+    400806: character_upstairs_m:sp_grp_thumb
+    400808: character_upstairs_m:sp_grp_thumb1
+    400810: character_upstairs_m:sp_grp_thumb2
+    400812: character_upstairs_m:sp_grp_thumb3
+    400814: character_upstairs_m:sp_grp_thumb_end
+    400816: character_upstairs_m:sp_grp_thumb_upAxis
+    400818: character_upstairs_m:sp_grp_toe
+    400820: character_upstairs_m:sp_grp_wrist
+    400822: character_upstairs_m:sr_grp_ankle
+    400824: character_upstairs_m:sr_grp_back
+    400826: character_upstairs_m:sr_grp_ball
+    400828: character_upstairs_m:sr_grp_chest
+    400830: character_upstairs_m:sr_grp_clavicle
+    400832: character_upstairs_m:sr_grp_clavicle_root
+    400834: character_upstairs_m:sr_grp_elbow
+    400836: character_upstairs_m:sr_grp_eye
+    400838: character_upstairs_m:sr_grp_head
+    400840: character_upstairs_m:sr_grp_headTop
+    400842: character_upstairs_m:sr_grp_hip
+    400844: character_upstairs_m:sr_grp_hipCenter
+    400846: character_upstairs_m:sr_grp_index1
+    400848: character_upstairs_m:sr_grp_index2
+    400850: character_upstairs_m:sr_grp_index3
+    400852: character_upstairs_m:sr_grp_index4
+    400854: character_upstairs_m:sr_grp_index_end
+    400856: character_upstairs_m:sr_grp_jawEnd
+    400858: character_upstairs_m:sr_grp_jawStart
+    400860: character_upstairs_m:sr_grp_knee
+    400862: character_upstairs_m:sr_grp_middle1
+    400864: character_upstairs_m:sr_grp_middle2
+    400866: character_upstairs_m:sr_grp_middle3
+    400868: character_upstairs_m:sr_grp_middle4
+    400870: character_upstairs_m:sr_grp_middle_end
+    400872: character_upstairs_m:sr_grp_neck
+    400874: character_upstairs_m:sr_grp_pelvis
+    400876: character_upstairs_m:sr_grp_pinky1
+    400878: character_upstairs_m:sr_grp_pinky2
+    400880: character_upstairs_m:sr_grp_pinky3
+    400882: character_upstairs_m:sr_grp_pinky4
+    400884: character_upstairs_m:sr_grp_pinky_end
+    400886: character_upstairs_m:sr_grp_ring1
+    400888: character_upstairs_m:sr_grp_ring2
+    400890: character_upstairs_m:sr_grp_ring3
+    400892: character_upstairs_m:sr_grp_ring4
+    400894: character_upstairs_m:sr_grp_ring_end
+    400896: character_upstairs_m:sr_grp_root
+    400898: character_upstairs_m:sr_grp_rootCtrl
+    400900: character_upstairs_m:sr_grp_rootCtrl_offset
+    400902: character_upstairs_m:sr_grp_shoulder
+    400904: character_upstairs_m:sr_grp_thumb1
+    400906: character_upstairs_m:sr_grp_thumb2
+    400908: character_upstairs_m:sr_grp_thumb3
+    400910: character_upstairs_m:sr_grp_thumb_end
+    400912: character_upstairs_m:sr_grp_toe
+    400914: character_upstairs_m:sr_grp_wrist
+    400916: character_upstairs_m:sr_grpAim_elbow
+    400918: character_upstairs_m:sr_grpAim_foot
+    400920: character_upstairs_m:sr_grpAim_knee
+    400922: character_upstairs_m:sr_grpOri_chest
+    400924: character_upstairs_m:sr_grpOri_foot
+    400926: character_upstairs_m:sr_grpOri_hand
+    400928: character_upstairs_m:sr_grpOri_hand_aim
+    400930: character_upstairs_m:sr_grpOri_hand_upAxis
+    400932: character_upstairs_m:sr_grpOri_head
+    400934: character_upstairs_m:sr_grpOri_index
+    400936: character_upstairs_m:sr_grpOri_middle
+    400938: character_upstairs_m:sr_grpOri_pinky
+    400940: character_upstairs_m:sr_grpOri_ring
+    400942: character_upstairs_m:sr_grpOri_thumb
+    400944: character_upstairs_m:sr_grpOri_toe
+    400946: //RootNode
+    400948: cup_upstairs:cup_upstairs
+    400950: cup_upstairs_customer:ctrl_cup
+    400952: cup_upstairs_customer:cup_upstairs
+    400954: cup_upstairs_customer:cup_upstairs 1
+    400956: cup_upstairs_customer:jntBnd_root
+    2300000: cup_upstairs:cup_upstairs
+    2300002: cup_upstairs_customer:cup_upstairs 1
+    3300000: cup_upstairs:cup_upstairs
+    3300002: cup_upstairs_customer:cup_upstairs 1
+    4300000: cup_upstairs:cup_upstairs
+    4300002: character_upstairs_m:characteR_upstairs_m
+    4300004: cup_upstairs_customer:cup_upstairs
+    7400000: upstairs_m_stagger_old
+    9500000: //RootNode
+    13700000: character_upstairs_m:characteR_upstairs_m
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_upstairs_m_base_material
+    second: {fileID: 2100000, guid: 6d733ce821c008d4d9f23eb59d3a8e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup_upstairs_customer_base_material
+    second: {fileID: 2100000, guid: 6d733ce821c008d4d9f23eb59d3a8e3a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'character_upstairs_m:bkJntDrv_head' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'character_upstairs_m:bkJntDrv_L_shoulder'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_upstairs_m:bkJntDrv_R_shoulder'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: upstairs_m_stagger_old
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: character_upstairs_m:bkJnt_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_shin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_shin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_ball
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_ball
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_back
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_upperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_upperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_lowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_lowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_thumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_index3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_middle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_middle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_middle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_ring2
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_ring3
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_ring4
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_pinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_pinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_L_pinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_thumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_index3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_middle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_middle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_middle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_ring3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_pinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_pinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_m:bkJnt_R_pinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: character_upstairs_m_anim_stagger(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:characteR_upstairs_m
+      parentName: character_upstairs_m_anim_stagger(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_scaleRig
+      parentName: character_upstairs_m_anim_stagger(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_bakeJoints
+      parentName: character_upstairs_m:grp_scaleRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3, y: 1.3, z: 1.3}
+    - name: character_upstairs_m:bkJnt_root
+      parentName: character_upstairs_m:grp_bakeJoints
+      position: {x: 3.9968027e-17, y: 0.741756, z: -7.888609e-33}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_pelvis
+      parentName: character_upstairs_m:bkJnt_root
+      position: {x: 0.027350742, y: 2.7755574e-18, z: 9.244463e-34}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntMir_R_leg
+      parentName: character_upstairs_m:bkJnt_pelvis
+      position: {x: -0.14512572, y: 1.2261255e-17, z: 0.07242032}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_thigh
+      parentName: character_upstairs_m:bkJntMir_R_leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0014105745, y: -0.0023263162, z: -0.034472007, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_shin
+      parentName: character_upstairs_m:bkJnt_R_thigh
+      position: {x: 0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -1.5209743e-23, y: 1.5775828e-23, z: 0.081055306, w: 0.9967096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_ball
+      parentName: character_upstairs_m:bkJnt_R_shin
+      position: {x: 0.23741664, y: 1.4872944e-16, z: 3.979608e-17}
+      rotation: {x: -0.0022059137, y: 0.0015922982, z: -0.50406146, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_toe
+      parentName: character_upstairs_m:bkJnt_R_ball
+      position: {x: 0.1154363, y: 0, z: 9.241614e-10}
+      rotation: {x: -5.3469944e-11, y: 1.1829784e-11, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_R_toeTip
+      parentName: character_upstairs_m:bkJnt_R_toe
+      position: {x: 0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_thigh
+      parentName: character_upstairs_m:bkJnt_pelvis
+      position: {x: -0.14512572, y: 2.1094237e-17, z: -0.07242032}
+      rotation: {x: 0.0014105744, y: -0.002326317, z: -0.034471963, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_shin
+      parentName: character_upstairs_m:bkJnt_L_thigh
+      position: {x: -0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -9.3482936e-24, y: 7.003806e-24, z: 0.08105524, w: 0.99670964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_ball
+      parentName: character_upstairs_m:bkJnt_L_shin
+      position: {x: -0.23741664, y: 0, z: 3.979608e-17}
+      rotation: {x: -0.0022058196, y: 0.0015922463, z: -0.50406134, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_toe
+      parentName: character_upstairs_m:bkJnt_L_ball
+      position: {x: -0.1154363, y: 1.9515272e-17, z: 9.241614e-10}
+      rotation: {x: 0.000000019975248, y: -0.0000000044234683, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_toeTip
+      parentName: character_upstairs_m:bkJnt_L_toe
+      position: {x: -0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_back
+      parentName: character_upstairs_m:bkJnt_root
+      position: {x: -0.027350742, y: 0, z: -3.330669e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_chest
+      parentName: character_upstairs_m:bkJnt_back
+      position: {x: -0.12964438, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_L_clavicle
+      parentName: character_upstairs_m:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_clavicle
+      parentName: character_upstairs_m:bkJntDrv_L_clavicle
+      position: {x: -0.04, y: -8.881784e-18, z: -0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_L_shoulder
+      parentName: character_upstairs_m:bkJnt_L_clavicle
+      position: {x: -0.083559684, y: -1.8553977e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_upperArm
+      parentName: character_upstairs_m:bkJntDrv_L_shoulder
+      position: {x: -0, y: 0, z: 1.5777218e-32}
+      rotation: {x: -0.00000003539025, y: -0.38164368, z: -0.036617372, w: 0.923584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_lowerArm
+      parentName: character_upstairs_m:bkJnt_L_upperArm
+      position: {x: -0.19157079, y: 4.440892e-18, z: 4.9303805e-34}
+      rotation: {x: -0.0015129108, y: -0.014412368, z: -0.039686635, w: 0.9991071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_wrist
+      parentName: character_upstairs_m:bkJnt_L_lowerArm
+      position: {x: -0.19157079, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_ring1
+      parentName: character_upstairs_m:bkJnt_L_wrist
+      position: {x: -0.023636164, y: -0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_ring2
+      parentName: character_upstairs_m:bkJnt_L_ring1
+      position: {x: -0.04727233, y: -2.8865798e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_ring3
+      parentName: character_upstairs_m:bkJnt_L_ring2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_ring4
+      parentName: character_upstairs_m:bkJnt_L_ring3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_ring
+      parentName: character_upstairs_m:bkJnt_L_ring4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_pinky1
+      parentName: character_upstairs_m:bkJnt_L_wrist
+      position: {x: -0.016882975, y: -0.03376595, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_pinky2
+      parentName: character_upstairs_m:bkJnt_L_pinky1
+      position: {x: -0.04727233, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_pinky3
+      parentName: character_upstairs_m:bkJnt_L_pinky2
+      position: {x: -0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_pinky4
+      parentName: character_upstairs_m:bkJnt_L_pinky3
+      position: {x: -0.0141817, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_pinky
+      parentName: character_upstairs_m:bkJnt_L_pinky4
+      position: {x: -0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_index1
+      parentName: character_upstairs_m:bkJnt_L_wrist
+      position: {x: -0.023636164, y: 0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_index2
+      parentName: character_upstairs_m:bkJnt_L_index1
+      position: {x: -0.04727233, y: -1.11022296e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_index3
+      parentName: character_upstairs_m:bkJnt_L_index2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_index4
+      parentName: character_upstairs_m:bkJnt_L_index3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_index
+      parentName: character_upstairs_m:bkJnt_L_index4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_thumb1
+      parentName: character_upstairs_m:bkJnt_L_wrist
+      position: {x: -0.016882975, y: 0.03376595, z: 0.01}
+      rotation: {x: -0.033835784, y: 0.027421625, z: -0.31648362, w: 0.9475977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_thumb2
+      parentName: character_upstairs_m:bkJnt_L_thumb1
+      position: {x: -0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_thumb3
+      parentName: character_upstairs_m:bkJnt_L_thumb2
+      position: {x: -0.020260097, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_thumb
+      parentName: character_upstairs_m:bkJnt_L_thumb3
+      position: {x: -0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_middle1
+      parentName: character_upstairs_m:bkJnt_L_wrist
+      position: {x: -0.025324464, y: 3.056435e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_middle2
+      parentName: character_upstairs_m:bkJnt_L_middle1
+      position: {x: -0.050648928, y: -2.0857002e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_middle3
+      parentName: character_upstairs_m:bkJnt_L_middle2
+      position: {x: -0.030389354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_middle4
+      parentName: character_upstairs_m:bkJnt_L_middle3
+      position: {x: -0.020259572, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_L_middle
+      parentName: character_upstairs_m:bkJnt_L_middle4
+      position: {x: -0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntMir_R_arm
+      parentName: character_upstairs_m:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_R_clavicle
+      parentName: character_upstairs_m:bkJntMir_R_arm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_clavicle
+      parentName: character_upstairs_m:bkJntDrv_R_clavicle
+      position: {x: 0.04, y: 8.881784e-18, z: 0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_R_shoulder
+      parentName: character_upstairs_m:bkJnt_R_clavicle
+      position: {x: 0.083559684, y: 1.8553977e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_upperArm
+      parentName: character_upstairs_m:bkJntDrv_R_shoulder
+      position: {x: -0, y: 3.9443044e-33, z: 0}
+      rotation: {x: 0.00000005029141, y: -0.38164368, z: -0.03661734, w: 0.923584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_lowerArm
+      parentName: character_upstairs_m:bkJnt_R_upperArm
+      position: {x: 0.19157079, y: 0, z: 3.077396e-16}
+      rotation: {x: -0.0015129213, y: -0.014412368, z: -0.039686624, w: 0.9991071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_wrist
+      parentName: character_upstairs_m:bkJnt_R_lowerArm
+      position: {x: 0.19157079, y: -1.3322676e-16, z: -2.842171e-16}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_index1
+      parentName: character_upstairs_m:bkJnt_R_wrist
+      position: {x: 0.023636164, y: -0.016882975, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_index2
+      parentName: character_upstairs_m:bkJnt_R_index1
+      position: {x: 0.04727233, y: 1.11022296e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_index3
+      parentName: character_upstairs_m:bkJnt_R_index2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_index4
+      parentName: character_upstairs_m:bkJnt_R_index3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_R_index
+      parentName: character_upstairs_m:bkJnt_R_index4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_thumb1
+      parentName: character_upstairs_m:bkJnt_R_wrist
+      position: {x: 0.016882975, y: -0.03376595, z: -0.01}
+      rotation: {x: -0.03383594, y: 0.027421497, z: -0.31648263, w: 0.947598}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_thumb2
+      parentName: character_upstairs_m:bkJnt_R_thumb1
+      position: {x: 0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_thumb3
+      parentName: character_upstairs_m:bkJnt_R_thumb2
+      position: {x: 0.020260097, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_R_thumb
+      parentName: character_upstairs_m:bkJnt_R_thumb3
+      position: {x: 0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_middle1
+      parentName: character_upstairs_m:bkJnt_R_wrist
+      position: {x: 0.025324464, y: -3.056435e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_middle2
+      parentName: character_upstairs_m:bkJnt_R_middle1
+      position: {x: 0.050648928, y: 2.0857002e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_middle3
+      parentName: character_upstairs_m:bkJnt_R_middle2
+      position: {x: 0.030389354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_middle4
+      parentName: character_upstairs_m:bkJnt_R_middle3
+      position: {x: 0.020259572, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_R_middle
+      parentName: character_upstairs_m:bkJnt_R_middle4
+      position: {x: 0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_ring1
+      parentName: character_upstairs_m:bkJnt_R_wrist
+      position: {x: 0.023636164, y: 0.016882975, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_ring2
+      parentName: character_upstairs_m:bkJnt_R_ring1
+      position: {x: 0.04727233, y: 2.8865798e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_ring3
+      parentName: character_upstairs_m:bkJnt_R_ring2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_ring4
+      parentName: character_upstairs_m:bkJnt_R_ring3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_ring
+      parentName: character_upstairs_m:bkJnt_R_ring4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_pinky1
+      parentName: character_upstairs_m:bkJnt_R_wrist
+      position: {x: 0.016882975, y: 0.03376595, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_pinky2
+      parentName: character_upstairs_m:bkJnt_R_pinky1
+      position: {x: 0.04727233, y: 3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_pinky3
+      parentName: character_upstairs_m:bkJnt_R_pinky2
+      position: {x: 0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_pinky4
+      parentName: character_upstairs_m:bkJnt_R_pinky3
+      position: {x: 0.0141817, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_R_pinky
+      parentName: character_upstairs_m:bkJnt_R_pinky4
+      position: {x: 0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_neck
+      parentName: character_upstairs_m:bkJnt_chest
+      position: {x: -0.1425185, y: 2.4424906e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_head
+      parentName: character_upstairs_m:bkJnt_neck
+      position: {x: -0.08, y: 8.881784e-18, z: -7.888609e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_head
+      parentName: character_upstairs_m:bkJntDrv_head
+      position: {x: -0, y: 1.5777218e-32, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_jaw
+      parentName: character_upstairs_m:bkJnt_head
+      position: {x: -0.03, y: 0.03, z: 3.1554436e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_jaw
+      parentName: character_upstairs_m:bkJntDrv_jaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8632095, w: 0.5048459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_jaw
+      parentName: character_upstairs_m:bkJnt_jaw
+      position: {x: -0.09178779, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_L_eye
+      parentName: character_upstairs_m:bkJnt_head
+      position: {x: -0.07504938, y: 0.07701503, z: 0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_L_eye
+      parentName: character_upstairs_m:bkJntDrv_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntDrv_R_eye
+      parentName: character_upstairs_m:bkJnt_head
+      position: {x: -0.07504938, y: 0.07701503, z: -0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJnt_R_eye
+      parentName: character_upstairs_m:bkJntDrv_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:bkJntEnd_headTop
+      parentName: character_upstairs_m:bkJnt_head
+      position: {x: -0.16083494, y: 3.1086245e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_ctrlRig_globalScale
+      parentName: character_upstairs_m:grp_scaleRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3, y: 1.3, z: 1.3}
+    - name: character_upstairs_m:grp_ctrlRig_scale
+      parentName: character_upstairs_m:grp_ctrlRig_globalScale
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_ctrl
+      parentName: character_upstairs_m:grp_ctrlRig_scale
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:loc_masterConstraint
+      parentName: character_upstairs_m:grp_ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_master
+      parentName: character_upstairs_m:loc_masterConstraint
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootCtrl
+      parentName: character_upstairs_m:ctrl_master
+      position: {x: -0, y: 0.5692796, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootCtrl_pos
+      parentName: character_upstairs_m:grp_rootCtrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootCtrl_orient
+      parentName: character_upstairs_m:grp_rootCtrl_pos
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:loc_rootConstraint
+      parentName: character_upstairs_m:grp_rootCtrl_orient
+      position: {x: -0, y: 8.874685e-33, z: -3.9968027e-17}
+      rotation: {x: -5.551115e-17, y: -1.110223e-16, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_root
+      parentName: character_upstairs_m:loc_rootConstraint
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootCtrl_orient_offset
+      parentName: character_upstairs_m:ctrl_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootCtrl_pos_offset
+      parentName: character_upstairs_m:grp_rootCtrl_orient_offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_rootParent
+      parentName: character_upstairs_m:grp_rootCtrl_pos_offset
+      position: {x: -0.17247646, y: 8.503746e-33, z: -3.8297466e-17}
+      rotation: {x: -5.551115e-17, y: -1.110223e-16, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_back_FK
+      parentName: character_upstairs_m:grp_rootParent
+      position: {x: -0.027350742, y: -6.970221e-18, z: -2.3215497e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_back_FK
+      parentName: character_upstairs_m:grpCtrl_back_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_chest_FK
+      parentName: character_upstairs_m:ctrl_back_FK
+      position: {x: -0.12964438, y: -9.469087e-19, z: -3.1538394e-34}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_chest_FK
+      parentName: character_upstairs_m:grpCtrl_chest_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_neck_FK
+      parentName: character_upstairs_m:ctrl_chest_FK
+      position: {x: -0.1425185, y: 6.3433386e-20, z: 2.1127562e-35}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_neck_FK
+      parentName: character_upstairs_m:grpCtrl_neck_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_head_FK
+      parentName: character_upstairs_m:ctrl_neck_FK
+      position: {x: -0.08, y: 3.059781e-18, z: 1.0191117e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_head_FK
+      parentName: character_upstairs_m:grpCtrl_head_FK
+      position: {x: 2.842171e-16, y: 0, z: 0}
+      rotation: {x: -0.03084108, y: 0.022127163, z: -0.12152692, w: 0.9918621}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_clavicles
+      parentName: character_upstairs_m:grp_rootParent
+      position: {x: -0.156883, y: 0.0046960986, z: -0.002646601}
+      rotation: {x: 0.032925323, y: -0.018886691, z: 0.020351855, w: 0.99907213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_clavicle_L_root
+      parentName: character_upstairs_m:grpCtrl_clavicles
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_clavicle_FK
+      parentName: character_upstairs_m:grpCtrl_L_clavicle_L_root
+      position: {x: -0.04, y: -8.881784e-18, z: -0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_clavicle_FK
+      parentName: character_upstairs_m:grpCtrl_L_clavicle_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_shoulder_FK_root
+      parentName: character_upstairs_m:grpCtrl_L_clavicle_L_root
+      position: {x: -0.04, y: -2.1316282e-16, z: -0.083707504}
+      rotation: {x: -0.045682587, y: 0.14311051, z: 0.042405523, w: 0.987742}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_shoulder_FK
+      parentName: character_upstairs_m:grpCtrl_L_shoulder_FK_root
+      position: {x: -0.083559684, y: -1.8100141e-19, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_shoulder_FK
+      parentName: character_upstairs_m:grpCtrl_L_shoulder_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.07270727, y: 0.26267388, z: 0.029850317, w: 0.96167827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_elbow_FK
+      parentName: character_upstairs_m:ctrl_L_shoulder_FK
+      position: {x: -0.19157079, y: 1.11022296e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_elbow_FK
+      parentName: character_upstairs_m:grpCtrl_L_elbow_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.104400046, w: 0.9945354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_hand_FK
+      parentName: character_upstairs_m:ctrl_L_elbow_FK
+      position: {x: -0.19157079, y: 0, z: 2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_hand_FK
+      parentName: character_upstairs_m:grpCtrl_L_hand_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpMir_R_armCtrl_FK
+      parentName: character_upstairs_m:grpCtrl_clavicles
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_clavicle_root
+      parentName: character_upstairs_m:grpMir_R_armCtrl_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_clavicle_FK
+      parentName: character_upstairs_m:grpCtrl_R_clavicle_root
+      position: {x: 0.04, y: 8.881784e-18, z: 0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_clavicle_FK
+      parentName: character_upstairs_m:grpCtrl_R_clavicle_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_shoulder_FK_root
+      parentName: character_upstairs_m:grpCtrl_R_clavicle_root
+      position: {x: 0.04, y: 1.4210854e-16, z: 0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_shoulder_FK
+      parentName: character_upstairs_m:grpCtrl_R_shoulder_FK_root
+      position: {x: 0.083559684, y: -1.9520033e-17, z: 8.5265126e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_shoulder_FK
+      parentName: character_upstairs_m:grpCtrl_R_shoulder_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_elbow_FK
+      parentName: character_upstairs_m:ctrl_R_shoulder_FK
+      position: {x: 0.19157079, y: -1.7763568e-17, z: 8.5265126e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_elbow_FK
+      parentName: character_upstairs_m:grpCtrl_R_elbow_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.104400046, w: 0.9945354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_hand_FK
+      parentName: character_upstairs_m:ctrl_R_elbow_FK
+      position: {x: 0.19157079, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_hand_FK
+      parentName: character_upstairs_m:grpCtrl_R_hand_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_legs_FK
+      parentName: character_upstairs_m:grp_rootParent
+      position: {x: 0.17247646, y: 2.1316282e-16, z: 1.7763568e-17}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_thigh_FK
+      parentName: character_upstairs_m:grpCtrl_legs_FK
+      position: {x: -2.842171e-16, y: -4.915609e-18, z: -0.07242032}
+      rotation: {x: 0, y: -6.162976e-33, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_thigh_FK
+      parentName: character_upstairs_m:grpCtrl_L_thigh_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0014105744, y: -0.0023263155, z: -0.03447198, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_knee_FK
+      parentName: character_upstairs_m:ctrl_L_thigh_FK
+      position: {x: -0.2594058, y: -8.881784e-18, z: 0}
+      rotation: {x: -2.4468096e-18, y: -2.3244692e-17, z: -5.6875336e-35, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_knee_FK
+      parentName: character_upstairs_m:grpCtrl_L_knee_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.3774288e-23, y: 3.1340568e-15, z: 0.081055254, w: 0.9967096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_ankle
+      parentName: character_upstairs_m:ctrl_L_knee_FK
+      position: {x: -0.23741664, y: 4.440892e-18, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_ankle_FK
+      parentName: character_upstairs_m:grpCtrl_L_ankle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0022059113, y: 0.0015923, z: -0.50406134, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_toe_FK
+      parentName: character_upstairs_m:ctrl_L_ankle_FK
+      position: {x: -0.1154363, y: 8.881784e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_toe_FK
+      parentName: character_upstairs_m:grpCtrl_L_toe_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.5001383e-23, y: -1.0969982e-14, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpMir_R_legCtrl_FK
+      parentName: character_upstairs_m:grpCtrl_legs_FK
+      position: {x: -2.842171e-16, y: -2.814843e-18, z: -8.5291925e-18}
+      rotation: {x: -1.0420413e-32, y: -0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_thigh_FK
+      parentName: character_upstairs_m:grpMir_R_legCtrl_FK
+      position: {x: -0, y: -9.063727e-20, z: 0.07242032}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_thigh_FK
+      parentName: character_upstairs_m:grpCtrl_R_thigh_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0014105744, y: -0.0023263155, z: -0.03447198, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_knee_FK
+      parentName: character_upstairs_m:ctrl_R_thigh_FK
+      position: {x: 0.2594058, y: 2.6645352e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_knee_FK
+      parentName: character_upstairs_m:grpCtrl_R_knee_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.3774288e-23, y: 3.1340568e-15, z: 0.081055254, w: 0.9967096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_ankle_FK
+      parentName: character_upstairs_m:ctrl_R_knee_FK
+      position: {x: 0.23741664, y: -1.4432899e-17, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_ankle_FK
+      parentName: character_upstairs_m:grpCtrl_R_ankle_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0022059113, y: 0.0015923, z: -0.50406134, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_toe_FK
+      parentName: character_upstairs_m:ctrl_R_ankle_FK
+      position: {x: 0.1154363, y: 8.881784e-18, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_toe_FK
+      parentName: character_upstairs_m:grpCtrl_R_toe_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.5001383e-23, y: -1.0969982e-14, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_pelvis_FK_root
+      parentName: character_upstairs_m:grp_rootParent
+      position: {x: 0.027350742, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_pelvis_FK
+      parentName: character_upstairs_m:grpCtrl_pelvis_FK_root
+      position: {x: 0.012649256, y: 1.4210854e-16, z: 1.7763568e-17}
+      rotation: {x: -8.326673e-17, y: 5.551115e-17, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_pelvis_FK
+      parentName: character_upstairs_m:grpCtrl_pelvis_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_root_IK
+      parentName: character_upstairs_m:grp_rootParent
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_root_IK
+      parentName: character_upstairs_m:grpCtrl_root_IK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_attributes
+      parentName: character_upstairs_m:ctrl_master
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_hand_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: -0.33670065, y: 0.60149384, z: -0.1479528}
+      rotation: {x: -0.23413552, y: 0.51259977, z: 0.026036706, w: 0.825678}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_hand_attrs_pos
+      parentName: character_upstairs_m:grpCtrl_L_hand_attrs
+      position: {x: -0.050648928, y: 0.050648928, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_hand_attributes
+      parentName: character_upstairs_m:grpCtrl_L_hand_attrs_pos
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_leg_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: -0.1127565, y: 0.14524764, z: 0.096933655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_leg_attributes
+      parentName: character_upstairs_m:grpCtrl_L_leg_attrs
+      position: {x: -0.1154363, y: 0, z: -1.2621774e-31}
+      rotation: {x: 0.0000000014962422, y: -5.551115e-17, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_lowerSpine_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: 2.1316282e-16, y: 0.37894443, z: -0.203499}
+      rotation: {x: -0.099802114, y: 2.775558e-17, z: 3.3306693e-16, w: 0.99500734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_lowerSpine_attributes
+      parentName: character_upstairs_m:grpCtrl_lowerSpine_attrs
+      position: {x: -0.1759151, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_hand_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: 0.28349644, y: 0.8287098, z: 0.028188573}
+      rotation: {x: 0.6085251, y: 0.6859725, z: 0.24391298, w: -0.31566674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_hand_attrs_pos
+      parentName: character_upstairs_m:grpCtrl_R_hand_attrs
+      position: {x: 0.050648928, y: 0.050648928, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_hand_attributes
+      parentName: character_upstairs_m:grpCtrl_R_hand_attrs_pos
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_leg_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: 0.037907064, y: 0.07411255, z: 0.05431846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_leg_attributes
+      parentName: character_upstairs_m:grpCtrl_R_leg_attrs
+      position: {x: 0.1154363, y: 0, z: 0}
+      rotation: {x: 8.326673e-17, y: 1.110223e-16, z: -1.3877788e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_upperSpine_attrs
+      parentName: character_upstairs_m:grpCtrl_attributes
+      position: {x: 1.687539e-16, y: 0.5747909, z: -0.24318622}
+      rotation: {x: -0.0816628, y: 0.0077732382, z: -0.010879255, w: 0.99657035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_upperSpine_attributes
+      parentName: character_upstairs_m:grpCtrl_upperSpine_attrs
+      position: {x: -0.14659594, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_face
+      parentName: character_upstairs_m:ctrl_master
+      position: {x: 0.012327231, y: 0.9132286, z: -0.33227646}
+      rotation: {x: 0.31558022, y: -0.644291, z: -0.32891518, w: 0.61409533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_jaw_FK
+      parentName: character_upstairs_m:grpCtrl_face
+      position: {x: -0.03, y: 0.03, z: 3.1554436e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_jaw_FK
+      parentName: character_upstairs_m:grpCtrl_jaw_FK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -2.1437772e-23, y: 2.9948597e-16, z: -0.8632095, w: 0.5048459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_eye
+      parentName: character_upstairs_m:grpCtrl_face
+      position: {x: -0.07504938, y: 0.07701503, z: 0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_L_eyeOri
+      parentName: character_upstairs_m:grpCtrl_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_L_eye
+      parentName: character_upstairs_m:grpCtrl_L_eyeOri
+      position: {x: 1.7763568e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_mir_eye
+      parentName: character_upstairs_m:grpCtrl_face
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_eye
+      parentName: character_upstairs_m:grpCtrl_R_mir_eye
+      position: {x: 0.07504938, y: -0.07701503, z: -0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_R_eyeOri
+      parentName: character_upstairs_m:grpCtrl_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_R_eye
+      parentName: character_upstairs_m:grpCtrl_R_eyeOri
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpCtrl_jaw_attrs
+      parentName: character_upstairs_m:ctrl_master
+      position: {x: 0.012327231, y: 0.9132286, z: -0.33227646}
+      rotation: {x: 0.31558022, y: -0.644291, z: -0.32891518, w: 0.61409533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:ctrl_jaw_attributes
+      parentName: character_upstairs_m:grpCtrl_jaw_attrs
+      position: {x: -0, y: 3.6480381e-19, z: 0.09650097}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_holds
+      parentName: character_upstairs_m:grp_ctrlRig_scale
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_hold_arms
+      parentName: character_upstairs_m:grp_holds
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_hold_body
+      parentName: character_upstairs_m:grp_holds
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_hold_fingers
+      parentName: character_upstairs_m:grp_holds
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_hold_legs
+      parentName: character_upstairs_m:grp_holds
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_joints
+      parentName: character_upstairs_m:grp_ctrlRig_scale
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_root
+      parentName: character_upstairs_m:grp_joints
+      position: {x: 0.07666473, y: 0.547985, z: -0.6417144}
+      rotation: {x: 0.4476026, y: -0.5474047, z: -0.4476026, w: 0.5474047}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_back
+      parentName: character_upstairs_m:jntBnd_root
+      position: {x: -0.027350742, y: 0, z: -3.330669e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_chest
+      parentName: character_upstairs_m:jntBnd_back
+      position: {x: -0.12964438, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_neck
+      parentName: character_upstairs_m:jntBnd_chest
+      position: {x: -0.1425185, y: 2.4424906e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_head
+      parentName: character_upstairs_m:jntBnd_neck
+      position: {x: -0.08, y: 8.881784e-18, z: -7.888609e-33}
+      rotation: {x: -0.03084108, y: 0.022127163, z: -0.12152692, w: 0.9918621}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_head
+      parentName: character_upstairs_m:jntBnd_head
+      position: {x: -0.16083494, y: 3.1086245e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_face
+      parentName: character_upstairs_m:jntBnd_head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_eyes
+      parentName: character_upstairs_m:jntGrp_face
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpPos_L_eye
+      parentName: character_upstairs_m:jntGrp_eyes
+      position: {x: -0.07504938, y: 0.07701503, z: 0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpOri_L_eye_bake
+      parentName: character_upstairs_m:grpPos_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpOri_R_eye_bake
+      parentName: character_upstairs_m:grpPos_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_L_eye
+      parentName: character_upstairs_m:grpPos_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBndEye_L_
+      parentName: character_upstairs_m:jntGrp_L_eye
+      position: {x: 3.5527136e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_R_mir_eye
+      parentName: character_upstairs_m:jntGrp_eyes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grpPos_R_eye
+      parentName: character_upstairs_m:jntGrp_R_mir_eye
+      position: {x: 0.07504938, y: -0.07701503, z: -0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_R_eye
+      parentName: character_upstairs_m:grpPos_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBndEye_R_
+      parentName: character_upstairs_m:jntGrp_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.4651903e-32, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_pos_jaw
+      parentName: character_upstairs_m:jntGrp_face
+      position: {x: -0.03, y: 0.03, z: 3.1554436e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBndFace_jaw
+      parentName: character_upstairs_m:jntGrp_pos_jaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8632095, w: 0.5048459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBndFaceStr_lowerLip_mid
+      parentName: character_upstairs_m:jntBndFace_jaw
+      position: {x: -0.09178779, y: 0, z: 0}
+      rotation: {x: 1.5313654e-16, y: 1.607887e-16, z: 0.72412795, w: 0.6896657}
+      scale: {x: 0.9999996, y: 1.0000002, z: 1.0000002}
+    - name: character_upstairs_m:jntDrvIK_jaw
+      parentName: character_upstairs_m:jntGrp_pos_jaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 7.846882e-16, y: -1.3416971e-15, z: -0.8632095, w: 0.5048459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_L_clavicle
+      parentName: character_upstairs_m:jntBnd_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_clavicle
+      parentName: character_upstairs_m:jntDrv_L_clavicle
+      position: {x: -0.04, y: -8.881784e-18, z: -0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_L_upperArm
+      parentName: character_upstairs_m:jntBnd_L_clavicle
+      position: {x: -0.083559684, y: -1.8553977e-17, z: 0}
+      rotation: {x: 0.07270727, y: 0.26267388, z: 0.029850317, w: 0.96167827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_L_lowerArm
+      parentName: character_upstairs_m:jntDrv_L_upperArm
+      position: {x: -0.19157079, y: 4.440892e-18, z: 4.9303805e-34}
+      rotation: {x: 0, y: -0, z: -0.104400046, w: 0.9945354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_wrist
+      parentName: character_upstairs_m:jntDrv_L_lowerArm
+      position: {x: -0.19157079, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_index1
+      parentName: character_upstairs_m:jntBnd_L_wrist
+      position: {x: -0.023636164, y: 0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_index2
+      parentName: character_upstairs_m:jntBnd_L_index1
+      position: {x: -0.04727233, y: -1.11022296e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_index3
+      parentName: character_upstairs_m:jntBnd_L_index2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_index4
+      parentName: character_upstairs_m:jntBnd_L_index3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_index
+      parentName: character_upstairs_m:jntBnd_L_index4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_middle1
+      parentName: character_upstairs_m:jntBnd_L_wrist
+      position: {x: -0.025324464, y: 3.056435e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_middle2
+      parentName: character_upstairs_m:jntBnd_L_middle1
+      position: {x: -0.050648928, y: -2.0857002e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_middle3
+      parentName: character_upstairs_m:jntBnd_L_middle2
+      position: {x: -0.030389354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_middle4
+      parentName: character_upstairs_m:jntBnd_L_middle3
+      position: {x: -0.020259572, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_middle
+      parentName: character_upstairs_m:jntBnd_L_middle4
+      position: {x: -0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_pinky1
+      parentName: character_upstairs_m:jntBnd_L_wrist
+      position: {x: -0.016882975, y: -0.03376595, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_pinky2
+      parentName: character_upstairs_m:jntBnd_L_pinky1
+      position: {x: -0.04727233, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_pinky3
+      parentName: character_upstairs_m:jntBnd_L_pinky2
+      position: {x: -0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_pinky4
+      parentName: character_upstairs_m:jntBnd_L_pinky3
+      position: {x: -0.0141817, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_pinky
+      parentName: character_upstairs_m:jntBnd_L_pinky4
+      position: {x: -0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_ring1
+      parentName: character_upstairs_m:jntBnd_L_wrist
+      position: {x: -0.023636164, y: -0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_ring2
+      parentName: character_upstairs_m:jntBnd_L_ring1
+      position: {x: -0.04727233, y: -2.8865798e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_ring3
+      parentName: character_upstairs_m:jntBnd_L_ring2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_ring4
+      parentName: character_upstairs_m:jntBnd_L_ring3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_ring
+      parentName: character_upstairs_m:jntBnd_L_ring4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_thumb1
+      parentName: character_upstairs_m:jntBnd_L_wrist
+      position: {x: -0.016882975, y: 0.03376595, z: 0.01}
+      rotation: {x: -0.01409933, y: 0.078021824, z: -0.17727003, w: 0.9809634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_thumb2
+      parentName: character_upstairs_m:jntBnd_L_thumb1
+      position: {x: -0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_thumb3
+      parentName: character_upstairs_m:jntBnd_L_thumb2
+      position: {x: -0.020260097, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_thumb
+      parentName: character_upstairs_m:jntBnd_L_thumb3
+      position: {x: -0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_upperArm
+      parentName: character_upstairs_m:jntBnd_L_clavicle
+      position: {x: -0.083559684, y: -1.8553977e-17, z: 0}
+      rotation: {x: 0.706048, y: -0.24107309, z: -0.3566628, w: 0.56229144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_lowerArm
+      parentName: character_upstairs_m:jntDrvIK_L_upperArm
+      position: {x: -0.19157079, y: -1.8179901e-16, z: 4.1552286e-19}
+      rotation: {x: 2.6089092e-24, y: 1.0374748e-18, z: -0.0000025146721, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_wrist
+      parentName: character_upstairs_m:jntDrvIK_L_lowerArm
+      position: {x: -0.19157079, y: 1.5987211e-16, z: 0}
+      rotation: {x: -0.6632062, y: 0.4695013, z: 0.09348329, w: 0.57531464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_R_mir_arm
+      parentName: character_upstairs_m:jntBnd_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_R_clavicle
+      parentName: character_upstairs_m:jntGrp_R_mir_arm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_clavicle
+      parentName: character_upstairs_m:jntDrv_R_clavicle
+      position: {x: 0.04, y: 8.881784e-18, z: 0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_R_upperArm
+      parentName: character_upstairs_m:jntBnd_R_clavicle
+      position: {x: 0.083559684, y: 1.8553977e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_R_lowerArm
+      parentName: character_upstairs_m:jntDrv_R_upperArm
+      position: {x: 0.19157079, y: 0, z: 3.077396e-16}
+      rotation: {x: 0, y: -0, z: -0.104400046, w: 0.9945354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_wrist
+      parentName: character_upstairs_m:jntDrv_R_lowerArm
+      position: {x: 0.19157079, y: -1.3322676e-16, z: -2.842171e-16}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_index1
+      parentName: character_upstairs_m:jntBnd_R_wrist
+      position: {x: 0.023636164, y: -0.016882975, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_index2
+      parentName: character_upstairs_m:jntBnd_R_index1
+      position: {x: 0.04727233, y: 1.11022296e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_index3
+      parentName: character_upstairs_m:jntBnd_R_index2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_index4
+      parentName: character_upstairs_m:jntBnd_R_index3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_index
+      parentName: character_upstairs_m:jntBnd_R_index4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_middle1
+      parentName: character_upstairs_m:jntBnd_R_wrist
+      position: {x: 0.025324464, y: -3.056435e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_middle2
+      parentName: character_upstairs_m:jntBnd_R_middle1
+      position: {x: 0.050648928, y: 2.0857002e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_middle3
+      parentName: character_upstairs_m:jntBnd_R_middle2
+      position: {x: 0.030389354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_middle4
+      parentName: character_upstairs_m:jntBnd_R_middle3
+      position: {x: 0.020259572, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_middle
+      parentName: character_upstairs_m:jntBnd_R_middle4
+      position: {x: 0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_pinky1
+      parentName: character_upstairs_m:jntBnd_R_wrist
+      position: {x: 0.016882975, y: 0.03376595, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_pinky2
+      parentName: character_upstairs_m:jntBnd_R_pinky1
+      position: {x: 0.04727233, y: 3.5527136e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_pinky3
+      parentName: character_upstairs_m:jntBnd_R_pinky2
+      position: {x: 0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_pinky4
+      parentName: character_upstairs_m:jntBnd_R_pinky3
+      position: {x: 0.0141817, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_pinky
+      parentName: character_upstairs_m:jntBnd_R_pinky4
+      position: {x: 0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_ring1
+      parentName: character_upstairs_m:jntBnd_R_wrist
+      position: {x: 0.023636164, y: 0.016882975, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_ring2
+      parentName: character_upstairs_m:jntBnd_R_ring1
+      position: {x: 0.04727233, y: 2.8865798e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_ring3
+      parentName: character_upstairs_m:jntBnd_R_ring2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_ring4
+      parentName: character_upstairs_m:jntBnd_R_ring3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_ring 1
+      parentName: character_upstairs_m:jntBnd_R_ring4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_thumb1
+      parentName: character_upstairs_m:jntBnd_R_wrist
+      position: {x: 0.016882975, y: -0.03376595, z: -0.01}
+      rotation: {x: -0.01409933, y: 0.078021824, z: -0.17727003, w: 0.9809634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_thumb2
+      parentName: character_upstairs_m:jntBnd_R_thumb1
+      position: {x: 0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_thumb3
+      parentName: character_upstairs_m:jntBnd_R_thumb2
+      position: {x: 0.020260097, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_thumb
+      parentName: character_upstairs_m:jntBnd_R_thumb3
+      position: {x: 0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_upperArm
+      parentName: character_upstairs_m:jntBnd_R_clavicle
+      position: {x: 0.083559684, y: 1.8553977e-17, z: 0}
+      rotation: {x: 0.6395527, y: -0.121396646, z: -0.33542508, w: 0.6809737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_lowerArm
+      parentName: character_upstairs_m:jntDrvIK_R_upperArm
+      position: {x: 0.19157079, y: -1.8179901e-16, z: 4.1552286e-19}
+      rotation: {x: 1.3825696e-17, y: -1.1906869e-16, z: -0.088121265, w: 0.9961098}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_wrist
+      parentName: character_upstairs_m:jntDrvIK_R_lowerArm
+      position: {x: 0.19157079, y: 1.1546319e-16, z: 5.684342e-16}
+      rotation: {x: -0.6802728, y: 0.41267678, z: 0.14043328, w: 0.58924127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_pelvis
+      parentName: character_upstairs_m:jntBnd_root
+      position: {x: 0.027350742, y: 2.7755574e-18, z: 9.244463e-34}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_hips
+      parentName: character_upstairs_m:jntBnd_pelvis
+      position: {x: -0.14512572, y: 7.771561e-18, z: 3.9443044e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_L_thigh
+      parentName: character_upstairs_m:jntBnd_hips
+      position: {x: -0, y: 1.3322676e-17, z: -0.07242032}
+      rotation: {x: 0.0014105744, y: -0.002326317, z: -0.034471963, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_L_shin
+      parentName: character_upstairs_m:jntDrv_L_thigh
+      position: {x: -0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -9.3482936e-24, y: 7.003806e-24, z: 0.08105524, w: 0.99670964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_ball
+      parentName: character_upstairs_m:jntDrv_L_shin
+      position: {x: -0.23741664, y: 0, z: 3.979608e-17}
+      rotation: {x: -0.0022058196, y: 0.0015922463, z: -0.50406134, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_L_toe
+      parentName: character_upstairs_m:jntBnd_L_ball
+      position: {x: -0.1154363, y: 1.9515272e-17, z: 9.241614e-10}
+      rotation: {x: 0.000000019975248, y: -0.0000000044234683, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_L_toe
+      parentName: character_upstairs_m:jntBnd_L_toe
+      position: {x: -0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_thigh
+      parentName: character_upstairs_m:jntBnd_hips
+      position: {x: -0, y: 0, z: -0.07242032}
+      rotation: {x: -0.14364053, y: -0.04834569, z: -0.6293489, w: 0.7622009}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_shin
+      parentName: character_upstairs_m:jntDrvIK_L_thigh
+      position: {x: -0.2594058, y: -1.0658141e-16, z: 8.50757e-17}
+      rotation: {x: 2.0601188e-15, y: 2.515897e-15, z: 0.6381802, w: 0.76988703}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_ball
+      parentName: character_upstairs_m:jntDrvIK_L_shin
+      position: {x: -0.23741664, y: 0, z: 6.575025e-17}
+      rotation: {x: -0.014985792, y: -0.06790352, z: -0.55096275, w: 0.83162767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_L_toe
+      parentName: character_upstairs_m:jntDrvIK_L_ball
+      position: {x: -0.1154363, y: -6.217249e-17, z: 1.7232525e-17}
+      rotation: {x: 0.000000019960657, y: -0.000000004420226, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntGrp_R_mir_shin
+      parentName: character_upstairs_m:jntBnd_hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_R_thigh
+      parentName: character_upstairs_m:jntGrp_R_mir_shin
+      position: {x: -0, y: 4.489693e-18, z: 0.07242032}
+      rotation: {x: 0.0014105745, y: -0.0023263162, z: -0.034472007, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrv_R_shin
+      parentName: character_upstairs_m:jntDrv_R_thigh
+      position: {x: 0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -1.5209743e-23, y: 1.5775828e-23, z: 0.081055306, w: 0.9967096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_ball
+      parentName: character_upstairs_m:jntDrv_R_shin
+      position: {x: 0.23741664, y: 1.4872944e-16, z: 3.979608e-17}
+      rotation: {x: -0.0022059137, y: 0.0015922982, z: -0.50406146, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntBnd_R_toe
+      parentName: character_upstairs_m:jntBnd_R_ball
+      position: {x: 0.1154363, y: 0, z: 9.241614e-10}
+      rotation: {x: -5.3469944e-11, y: 1.1829784e-11, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntEnd_R_toe
+      parentName: character_upstairs_m:jntBnd_R_toe
+      position: {x: 0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_thigh
+      parentName: character_upstairs_m:jntGrp_R_mir_shin
+      position: {x: -0, y: 0, z: 0.07242032}
+      rotation: {x: -0.005815406, y: 0.042868398, z: -0.5232489, w: 0.8510812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_shin
+      parentName: character_upstairs_m:jntDrvIK_R_thigh
+      position: {x: 0.2594058, y: -1.0658141e-16, z: 8.50757e-17}
+      rotation: {x: 1.4097864e-15, y: 2.7286368e-15, z: 0.5917002, w: 0.8061581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_ball
+      parentName: character_upstairs_m:jntDrvIK_R_shin
+      position: {x: 0.23741664, y: 0, z: 6.575025e-17}
+      rotation: {x: -0.0050357752, y: -0.04296695, z: -0.44674784, w: 0.8936134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_R_toe
+      parentName: character_upstairs_m:jntDrvIK_R_ball
+      position: {x: 0.1154363, y: -6.217249e-17, z: 1.7232525e-17}
+      rotation: {x: 0.0000000019562552, y: -4.3320666e-10, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_back
+      parentName: character_upstairs_m:jntBnd_root
+      position: {x: -0.027350742, y: 0, z: 0}
+      rotation: {x: 2.220446e-16, y: 3.0424033e-32, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_chest
+      parentName: character_upstairs_m:jntDrvIK_back
+      position: {x: -0.12964438, y: -1.7763568e-17, z: -1.1832913e-32}
+      rotation: {x: -2.220446e-16, y: 2.490816e-31, z: 2.1875447e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_neck
+      parentName: character_upstairs_m:jntDrvIK_chest
+      position: {x: -0.1425185, y: 1.5987211e-16, z: 1.4040675e-17}
+      rotation: {x: 2.220446e-16, y: 4.067564e-31, z: -1.8162416e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_head
+      parentName: character_upstairs_m:jntDrvIK_neck
+      position: {x: -0.08, y: -1.4654943e-16, z: 6.5437e-18}
+      rotation: {x: 0.0000000010398498, y: -8.610411e-10, z: 0.0000000016623187, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:jntDrvIK_pelvis
+      parentName: character_upstairs_m:jntBnd_root
+      position: {x: 0.027350742, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:grp_scalePoints
+      parentName: character_upstairs_m:grp_scaleRig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3, y: 1.3, z: 1.3}
+    - name: character_upstairs_m:scalePoints_master
+      parentName: character_upstairs_m:grp_scalePoints
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ankle
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.11, y: 0.089999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ankle
+      parentName: character_upstairs_m:sp_grp_ankle
+      position: {x: 0.035217736, y: -0.015887456, z: -0.0042490605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_foot
+      parentName: character_upstairs_m:sp_grp_ankle
+      position: {x: 0.035217736, y: -0.089999996, z: -0.0042490605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ball
+      parentName: character_upstairs_m:sr_grpOri_foot
+      position: {x: -0, y: 0.014704181, z: 0.09478}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ball
+      parentName: character_upstairs_m:sp_grp_ball
+      position: {x: -0, y: -0.006487721, z: -4.0992848e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_back
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.7944053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_back
+      parentName: character_upstairs_m:sp_grp_back
+      position: {x: -0, y: -0.025298512, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_body_upAxis
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.79999995, z: 0.79999995}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_body_upAxis
+      parentName: character_upstairs_m:sp_grp_body_upAxis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_chest
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.92910683, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_chest
+      parentName: character_upstairs_m:sp_grp_chest
+      position: {x: -0, y: -0.030355627, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_elbow
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.2524812, y: 0.84217817, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_elbow
+      parentName: character_upstairs_m:sp_grp_elbow
+      position: {x: -0, y: 0, z: -0.02}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpAim_elbow
+      parentName: character_upstairs_m:sp_grp_elbow
+      position: {x: -0, y: 0, z: -0.02}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_hand_aim
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.62140274, y: 0.70189774, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_hand_aim
+      parentName: character_upstairs_m:sp_grp_hand_aim
+      position: {x: 0.131944, y: -0.12972042, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_head
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 1.1212697, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_head
+      parentName: character_upstairs_m:sp_grp_head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_headTop
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 1.3412696, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_headTop
+      parentName: character_upstairs_m:sp_grp_headTop
+      position: {x: -0, y: -0.059165053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_hip
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.11, y: 0.57440525, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_hip
+      parentName: character_upstairs_m:sp_grp_hip
+      position: {x: 0.037579674, y: -0.0051257126, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_knee
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.07360129, y: 0.32169604, z: -0.0021245303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_knee
+      parentName: character_upstairs_m:sp_grp_knee
+      position: {x: -0, y: -0.011202953, z: 0.02}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpAim_knee
+      parentName: character_upstairs_m:sp_grp_knee
+      position: {x: -0, y: -0.011202953, z: 0.02}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_neck
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 1.1387511, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_neck
+      parentName: character_upstairs_m:sp_grp_neck
+      position: {x: -0, y: -0.09748149, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pelvis
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 1.04, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pelvis
+      parentName: character_upstairs_m:sp_grp_pelvis
+      position: {x: -0, y: -0.3255947, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_hipCenter
+      parentName: character_upstairs_m:scalePoint_pelvis
+      position: {x: -0, y: -0.14512572, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_shoulder
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.19, y: 0.98245865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_shoulder
+      parentName: character_upstairs_m:sp_grp_shoulder
+      position: {x: 0.06644032, y: 1.0931427e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_toe
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.07478227, y: 0, z: 0.19575094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_toe
+      parentName: character_upstairs_m:sp_grp_toe
+      position: {x: -1.3664283e-17, y: 0, z: -0.05783001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpAim_foot
+      parentName: character_upstairs_m:scalePoint_toe
+      position: {x: 8.881784e-18, y: 0.18216999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_wrist
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0.6735596, y: 0.98245865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_wrist
+      parentName: character_upstairs_m:sp_grp_wrist
+      position: {x: 0.2921569, y: -0.2805609, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_hand
+      parentName: character_upstairs_m:sp_grp_wrist
+      position: {x: 0.2921569, y: -0.2805609, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4242468, w: 0.9055466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index
+      parentName: character_upstairs_m:sr_grpOri_hand
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index1
+      parentName: character_upstairs_m:sp_grp_index
+      position: {x: -0.023636164, y: 0, z: 0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index1
+      parentName: character_upstairs_m:sp_grp_index1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index2
+      parentName: character_upstairs_m:sp_grp_index
+      position: {x: -0.070908494, y: 0, z: 0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index2
+      parentName: character_upstairs_m:sp_grp_index2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index_end
+      parentName: character_upstairs_m:sp_grp_index
+      position: {x: -0.1333755, y: 0, z: 0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index_end
+      parentName: character_upstairs_m:sp_grp_index_end
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index_upAxis
+      parentName: character_upstairs_m:sp_grp_index
+      position: {x: -0.11818082, y: 0.04727233, z: 0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index_upAxis
+      parentName: character_upstairs_m:sp_grp_index_upAxis
+      position: {x: -3.5527136e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_index
+      parentName: character_upstairs_m:sp_grp_index
+      position: {x: -0.070908494, y: 0, z: 0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index3
+      parentName: character_upstairs_m:sr_grpOri_index
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index3
+      parentName: character_upstairs_m:sp_grp_index3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_index4
+      parentName: character_upstairs_m:sr_grpOri_index
+      position: {x: -0.046850257, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_index4
+      parentName: character_upstairs_m:sp_grp_index4
+      position: {x: 1.2434498e-16, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle
+      parentName: character_upstairs_m:sr_grpOri_hand
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle1
+      parentName: character_upstairs_m:sp_grp_middle
+      position: {x: -0.025324464, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle1
+      parentName: character_upstairs_m:sp_grp_middle1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle2
+      parentName: character_upstairs_m:sp_grp_middle
+      position: {x: -0.07597339, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle2
+      parentName: character_upstairs_m:sp_grp_middle2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle_end
+      parentName: character_upstairs_m:sp_grp_middle
+      position: {x: -0.14350529, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle_end
+      parentName: character_upstairs_m:sp_grp_middle_end
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle_upAxis
+      parentName: character_upstairs_m:sp_grp_middle
+      position: {x: -0.12662232, y: 0.050648928, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle_upAxis
+      parentName: character_upstairs_m:sp_grp_middle_upAxis
+      position: {x: 3.5527136e-17, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_middle
+      parentName: character_upstairs_m:sp_grp_middle
+      position: {x: -0.07597339, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle3
+      parentName: character_upstairs_m:sr_grpOri_middle
+      position: {x: -0.030389354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle3
+      parentName: character_upstairs_m:sp_grp_middle3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_middle4
+      parentName: character_upstairs_m:sr_grpOri_middle
+      position: {x: -0.050648928, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_middle4
+      parentName: character_upstairs_m:sp_grp_middle4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky
+      parentName: character_upstairs_m:sr_grpOri_hand
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky1
+      parentName: character_upstairs_m:sp_grp_pinky
+      position: {x: -0.016882975, y: 2.842171e-16, z: -0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky1
+      parentName: character_upstairs_m:sp_grp_pinky1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky2
+      parentName: character_upstairs_m:sp_grp_pinky
+      position: {x: -0.0641553, y: 2.842171e-16, z: -0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky2
+      parentName: character_upstairs_m:sp_grp_pinky2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky_end
+      parentName: character_upstairs_m:sp_grp_pinky
+      position: {x: -0.11142763, y: 4.2632563e-16, z: -0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky_end
+      parentName: character_upstairs_m:sp_grp_pinky_end
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky_upAxis
+      parentName: character_upstairs_m:sp_grp_pinky
+      position: {x: -0.11142763, y: 0.04727233, z: -0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky_upAxis
+      parentName: character_upstairs_m:sp_grp_pinky_upAxis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_pinky
+      parentName: character_upstairs_m:sp_grp_pinky
+      position: {x: -0.0641553, y: 4.2632563e-16, z: -0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky3
+      parentName: character_upstairs_m:sr_grpOri_pinky
+      position: {x: -0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky3
+      parentName: character_upstairs_m:sp_grp_pinky3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_pinky4
+      parentName: character_upstairs_m:sr_grpOri_pinky
+      position: {x: -0.035454247, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_pinky4
+      parentName: character_upstairs_m:sp_grp_pinky4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring
+      parentName: character_upstairs_m:sr_grpOri_hand
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring1
+      parentName: character_upstairs_m:sp_grp_ring
+      position: {x: -0.023636164, y: 0, z: -0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring1
+      parentName: character_upstairs_m:sp_grp_ring1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring2
+      parentName: character_upstairs_m:sp_grp_ring
+      position: {x: -0.070908494, y: 0, z: -0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring2
+      parentName: character_upstairs_m:sp_grp_ring2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring_end
+      parentName: character_upstairs_m:sp_grp_ring
+      position: {x: -0.1333755, y: 0, z: -0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring_end
+      parentName: character_upstairs_m:sp_grp_ring_end
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring_upAxis
+      parentName: character_upstairs_m:sp_grp_ring
+      position: {x: -0.11818082, y: 0.04727233, z: -0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring_upAxis
+      parentName: character_upstairs_m:sp_grp_ring_upAxis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_ring
+      parentName: character_upstairs_m:sp_grp_ring
+      position: {x: -0.070908494, y: 0, z: -0.016882975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring3
+      parentName: character_upstairs_m:sr_grpOri_ring
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring3
+      parentName: character_upstairs_m:sp_grp_ring3
+      position: {x: 1.4210854e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_ring4
+      parentName: character_upstairs_m:sr_grpOri_ring
+      position: {x: -0.046850257, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_ring4
+      parentName: character_upstairs_m:sp_grp_ring4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb
+      parentName: character_upstairs_m:sr_grpOri_hand
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb1
+      parentName: character_upstairs_m:sp_grp_thumb
+      position: {x: -0.016882975, y: -0.01, z: 0.03376595}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_thumb1
+      parentName: character_upstairs_m:sp_grp_thumb1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb_end
+      parentName: character_upstairs_m:sp_grp_thumb
+      position: {x: -0.07934998, y: -0.02, z: 0.057402115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_thumb_end
+      parentName: character_upstairs_m:sp_grp_thumb_end
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb_upAxis
+      parentName: character_upstairs_m:sp_grp_thumb
+      position: {x: -0.016882975, y: -0.01, z: 0.08103828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_thumb_upAxis
+      parentName: character_upstairs_m:sp_grp_thumb_upAxis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_thumb
+      parentName: character_upstairs_m:sp_grp_thumb
+      position: {x: -0.016882975, y: -0.01, z: 0.03376595}
+      rotation: {x: -0.014099331, y: 0.17727, z: 0.07802182, w: 0.9809634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb2
+      parentName: character_upstairs_m:sr_grpOri_thumb
+      position: {x: -0.030390145, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_thumb2
+      parentName: character_upstairs_m:sp_grp_thumb2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_thumb3
+      parentName: character_upstairs_m:sr_grpOri_thumb
+      position: {x: -0.050650243, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_thumb3
+      parentName: character_upstairs_m:sp_grp_thumb3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_hand_aim
+      parentName: character_upstairs_m:sp_grp_wrist
+      position: {x: 0.2921569, y: -0.2805609, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4242468, w: 0.9055466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_hand_upAxis
+      parentName: character_upstairs_m:sr_grpOri_hand_aim
+      position: {x: -0.16882974, y: -1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_hand_upAxis
+      parentName: character_upstairs_m:sr_grpOri_hand_upAxis
+      position: {x: -0, y: 0.099999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_hand_upAxis
+      parentName: character_upstairs_m:sp_grp_hand_upAxis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_root
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.741756, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_back
+      parentName: character_upstairs_m:sr_grp_root
+      position: {x: -0.027350742, y: 1.3484957e-33, z: -6.0730848e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_chest
+      parentName: character_upstairs_m:sr_grp_back
+      position: {x: -0.12964438, y: 6.3919614e-33, z: -2.8786835e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_clavicle_root
+      parentName: character_upstairs_m:sr_grp_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_clavicle
+      parentName: character_upstairs_m:sr_grp_clavicle_root
+      position: {x: -0.04, y: -8.881784e-18, z: -0.083707504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_shoulder
+      parentName: character_upstairs_m:sr_grp_clavicle
+      position: {x: -0.083559684, y: -1.8553977e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_elbow
+      parentName: character_upstairs_m:sr_grp_shoulder
+      position: {x: -0.19157079, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.104400046, w: 0.9945354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_wrist
+      parentName: character_upstairs_m:sr_grp_elbow
+      position: {x: -0.19157079, y: 6.661338e-17, z: 0}
+      rotation: {x: -0.001272475, y: 0.024310295, z: 0.052256003, w: 0.998337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_index1
+      parentName: character_upstairs_m:sr_grp_wrist
+      position: {x: -0.023636164, y: 0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_index2
+      parentName: character_upstairs_m:sr_grp_index1
+      position: {x: -0.04727233, y: -1.11022296e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_index3
+      parentName: character_upstairs_m:sr_grp_index2
+      position: {x: -0.028110154, y: -1.9984014e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_index4
+      parentName: character_upstairs_m:sr_grp_index3
+      position: {x: -0.018740103, y: 6.661338e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_index_end
+      parentName: character_upstairs_m:sr_grp_index4
+      position: {x: -0.01561675, y: -1.5543122e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_middle1
+      parentName: character_upstairs_m:sr_grp_wrist
+      position: {x: -0.025324464, y: 3.056435e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_middle2
+      parentName: character_upstairs_m:sr_grp_middle1
+      position: {x: -0.050648928, y: -2.0857002e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_middle3
+      parentName: character_upstairs_m:sr_grp_middle2
+      position: {x: -0.030389354, y: -1.25142004e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_middle4
+      parentName: character_upstairs_m:sr_grp_middle3
+      position: {x: -0.020259572, y: -8.342802e-18, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_middle_end
+      parentName: character_upstairs_m:sr_grp_middle4
+      position: {x: -0.016882973, y: -6.952333e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pinky1
+      parentName: character_upstairs_m:sr_grp_wrist
+      position: {x: -0.016882975, y: -0.03376595, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pinky2
+      parentName: character_upstairs_m:sr_grp_pinky1
+      position: {x: -0.04727233, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pinky3
+      parentName: character_upstairs_m:sr_grp_pinky2
+      position: {x: -0.021272548, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pinky4
+      parentName: character_upstairs_m:sr_grp_pinky3
+      position: {x: -0.0141817, y: 4.440892e-18, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pinky_end
+      parentName: character_upstairs_m:sr_grp_pinky4
+      position: {x: -0.011818082, y: -2.2204459e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ring1
+      parentName: character_upstairs_m:sr_grp_wrist
+      position: {x: -0.023636164, y: -0.016882975, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ring2
+      parentName: character_upstairs_m:sr_grp_ring1
+      position: {x: -0.04727233, y: -2.8865798e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ring3
+      parentName: character_upstairs_m:sr_grp_ring2
+      position: {x: -0.028110154, y: -6.661338e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ring4
+      parentName: character_upstairs_m:sr_grp_ring3
+      position: {x: -0.018740103, y: -4.440892e-18, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ring_end
+      parentName: character_upstairs_m:sr_grp_ring4
+      position: {x: -0.01561675, y: -1.11022296e-17, z: 4.2632563e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_thumb1
+      parentName: character_upstairs_m:sr_grp_wrist
+      position: {x: -0.016882975, y: 0.03376595, z: 0.01}
+      rotation: {x: -0.014099331, y: 0.07802182, z: -0.17727, w: 0.9809634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_thumb2
+      parentName: character_upstairs_m:sr_grp_thumb1
+      position: {x: -0.030390145, y: 7.105427e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_thumb3
+      parentName: character_upstairs_m:sr_grp_thumb2
+      position: {x: -0.020260097, y: 3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_thumb_end
+      parentName: character_upstairs_m:sr_grp_thumb3
+      position: {x: -0.016883416, y: -7.105427e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_neck
+      parentName: character_upstairs_m:sr_grp_chest
+      position: {x: -0.1425185, y: 7.026705e-33, z: -3.1645465e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_head
+      parentName: character_upstairs_m:sr_grp_neck
+      position: {x: -0.08, y: 3.9443044e-33, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_eye
+      parentName: character_upstairs_m:sr_grp_head
+      position: {x: -0.07504938, y: 0.07701503, z: 0.040997256}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_headTop
+      parentName: character_upstairs_m:sr_grp_head
+      position: {x: -0.16083494, y: 7.929775e-33, z: -3.571253e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_jawStart
+      parentName: character_upstairs_m:sr_grp_head
+      position: {x: -0.03, y: 0.03, z: 3.1554436e-32}
+      rotation: {x: 0, y: 2.9948594e-16, z: -0.8632095, w: 0.5048459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_jawEnd
+      parentName: character_upstairs_m:sr_grp_jawStart
+      position: {x: -0.09178779, y: -1.4210854e-16, z: 2.7755576e-17}
+      rotation: {x: -4.4680897e-33, y: -7.1992394e-17, z: 0.72412795, w: 0.6896657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_pelvis
+      parentName: character_upstairs_m:sr_grp_root
+      position: {x: 0.027350742, y: -1.3484957e-33, z: 6.0730848e-18}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_hip
+      parentName: character_upstairs_m:sr_grp_pelvis
+      position: {x: -0.14512572, y: -1.6080542e-17, z: -0.07242032}
+      rotation: {x: 0.0014105744, y: -0.0023263155, z: -0.03447198, w: 0.999402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_knee
+      parentName: character_upstairs_m:sr_grp_hip
+      position: {x: -0.2594058, y: -4.440892e-18, z: 0}
+      rotation: {x: 0, y: 3.1340568e-15, z: 0.081055254, w: 0.9967096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ankle
+      parentName: character_upstairs_m:sr_grp_knee
+      position: {x: -0.23741664, y: -2.6645352e-17, z: 1.4832579e-15}
+      rotation: {x: -0.0022059113, y: 0.0015923, z: -0.5040614, w: 0.86366355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_ball
+      parentName: character_upstairs_m:sr_grp_ankle
+      position: {x: -0.1154363, y: 3.5527136e-17, z: 1.7763568e-17}
+      rotation: {x: 2.0199295e-31, y: -1.0969982e-14, z: -0.21620905, w: 0.9763471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_toe
+      parentName: character_upstairs_m:sr_grp_ball
+      position: {x: -0.048097003, y: 8.881784e-18, z: -1.0302869e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_toe
+      parentName: character_upstairs_m:sr_grp_ball
+      position: {x: 1.0302869e-15, y: -7.9936054e-17, z: 9.241617e-10}
+      rotation: {x: -0.06062107, y: -0.7045034, z: -0.06062107, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_rootCtrl
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.5692796, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grp_rootCtrl_offset
+      parentName: character_upstairs_m:sr_grp_rootCtrl
+      position: {x: -0.17247646, y: 8.503746e-33, z: -3.8297466e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_chest
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 0.89875114, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_clavicle
+      parentName: character_upstairs_m:sr_grpOri_chest
+      position: {x: -0.04, y: 0.16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_clavicle
+      parentName: character_upstairs_m:sp_grp_clavicle
+      position: {x: -0, y: -0.07629249, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sr_grpOri_head
+      parentName: character_upstairs_m:scalePoints_master
+      position: {x: -0, y: 1.1212697, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_face
+      parentName: character_upstairs_m:sr_grpOri_head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_eye
+      parentName: character_upstairs_m:sp_grp_face
+      position: {x: -0.04, y: 0.099999994, z: 0.089999996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_eye
+      parentName: character_upstairs_m:sp_grp_eye
+      position: {x: -0.0009972554, y: -0.024950624, z: -0.012984965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_eye_aim
+      parentName: character_upstairs_m:sp_grp_face
+      position: {x: -0.040997256, y: 0.07504938, z: 0.117015034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_eye_aim
+      parentName: character_upstairs_m:sp_grp_eye_aim
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_jawEnd
+      parentName: character_upstairs_m:sp_grp_face
+      position: {x: -0, y: -0.015, z: 0.11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_jawEnd
+      parentName: character_upstairs_m:sp_grp_jawEnd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:sp_grp_jawStart
+      parentName: character_upstairs_m:sp_grp_face
+      position: {x: -0, y: 0.03, z: 0.03}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_m:scalePoint_jawStart
+      parentName: character_upstairs_m:sp_grp_jawStart
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cup_upstairs:cup_upstairs
+      parentName: character_upstairs_m_anim_stagger(Clone)
+      position: {x: 0.25833994, y: 1.1475741, z: -0.5272773}
+      rotation: {x: -0.29094407, y: 0.16114475, z: 0.09202595, w: 0.9385708}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

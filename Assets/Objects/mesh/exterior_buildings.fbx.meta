@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 25e41eb48eb0452418a1ef646f824772
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2B_door
+    100002: 2B_lower_window_01
+    100004: 2B_lower_window_02
+    100006: 2B_roof
+    100008: 2B_stairs
+    100010: 2B_upper_window_01
+    100012: 2B_upper_window_02
+    100014: 2B_upper_window_03
+    100016: 2B_walls
+    100018: 3B_awnings
+    100020: 3B_decal
+    100022: 3B_lower_windows
+    100024: 3B_roof
+    100026: 3B_stairs
+    100028: 3B_upper_windows
+    100030: 3B_walls
+    100032: B3_door
+    100034: B4_bottom
+    100036: B4_decal
+    100038: B4_doors
+    100040: B4_lower_window
+    100042: B4_upper_window
+    100044: B4_walls_roof
+    100046: B5_ladder.001
+    100048: B5_lower_windows
+    100050: B5_upper_windows
+    100052: B5_walls
+    100054: //RootNode
+    400000: 2B_door
+    400002: 2B_lower_window_01
+    400004: 2B_lower_window_02
+    400006: 2B_roof
+    400008: 2B_stairs
+    400010: 2B_upper_window_01
+    400012: 2B_upper_window_02
+    400014: 2B_upper_window_03
+    400016: 2B_walls
+    400018: 3B_awnings
+    400020: 3B_decal
+    400022: 3B_lower_windows
+    400024: 3B_roof
+    400026: 3B_stairs
+    400028: 3B_upper_windows
+    400030: 3B_walls
+    400032: B3_door
+    400034: B4_bottom
+    400036: B4_decal
+    400038: B4_doors
+    400040: B4_lower_window
+    400042: B4_upper_window
+    400044: B4_walls_roof
+    400046: B5_ladder.001
+    400048: B5_lower_windows
+    400050: B5_upper_windows
+    400052: B5_walls
+    400054: //RootNode
+    2300000: 2B_door
+    2300002: 2B_lower_window_01
+    2300004: 2B_lower_window_02
+    2300006: 2B_roof
+    2300008: 2B_stairs
+    2300010: 2B_upper_window_01
+    2300012: 2B_upper_window_02
+    2300014: 2B_upper_window_03
+    2300016: 2B_walls
+    2300018: 3B_awnings
+    2300020: 3B_decal
+    2300022: 3B_lower_windows
+    2300024: 3B_roof
+    2300026: 3B_stairs
+    2300028: 3B_upper_windows
+    2300030: 3B_walls
+    2300032: B3_door
+    2300034: B4_bottom
+    2300036: B4_decal
+    2300038: B4_doors
+    2300040: B4_lower_window
+    2300042: B4_upper_window
+    2300044: B4_walls_roof
+    2300046: B5_ladder.001
+    2300048: B5_lower_windows
+    2300050: B5_upper_windows
+    2300052: B5_walls
+    3300000: 2B_door
+    3300002: 2B_lower_window_01
+    3300004: 2B_lower_window_02
+    3300006: 2B_roof
+    3300008: 2B_stairs
+    3300010: 2B_upper_window_01
+    3300012: 2B_upper_window_02
+    3300014: 2B_upper_window_03
+    3300016: 2B_walls
+    3300018: 3B_awnings
+    3300020: 3B_decal
+    3300022: 3B_lower_windows
+    3300024: 3B_roof
+    3300026: 3B_stairs
+    3300028: 3B_upper_windows
+    3300030: 3B_walls
+    3300032: B3_door
+    3300034: B4_bottom
+    3300036: B4_decal
+    3300038: B4_doors
+    3300040: B4_lower_window
+    3300042: B4_upper_window
+    3300044: B4_walls_roof
+    3300046: B5_ladder.001
+    3300048: B5_lower_windows
+    3300050: B5_upper_windows
+    3300052: B5_walls
+    4300000: B5_ladder.001
+    4300002: B5_upper_windows
+    4300004: B5_lower_windows
+    4300006: B5_walls
+    4300008: B4_bottom
+    4300010: B4_lower_window
+    4300012: B4_decal
+    4300014: B4_doors
+    4300016: B4_walls_roof
+    4300018: B4_upper_window
+    4300020: 3B_roof
+    4300022: 3B_upper_windows
+    4300024: 3B_decal
+    4300026: 3B_awnings
+    4300028: 3B_lower_windows
+    4300030: B3_door
+    4300032: 3B_stairs
+    4300034: 3B_walls
+    4300036: 2B_door
+    4300038: 2B_lower_window_01
+    4300040: 2B_lower_window_02
+    4300042: 2B_roof
+    4300044: 2B_stairs
+    4300046: 2B_upper_window_01
+    4300048: 2B_upper_window_02
+    4300050: 2B_upper_window_03
+    4300052: 2B_walls
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atlas_01_A
+    second: {fileID: 2100000, guid: 256339c5f5b1ef9419c3c7dcc367e1ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

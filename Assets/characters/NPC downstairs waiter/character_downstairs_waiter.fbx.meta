@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 9ea4454812797ca4a99c587d78efcada
+timeCreated: 1511957092
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character_rig:Metropolia_scaleRig:bkJnt_back
+    100004: Character_rig:Metropolia_scaleRig:bkJnt_chest
+    100006: Character_rig:Metropolia_scaleRig:bkJnt_head
+    100008: Character_rig:Metropolia_scaleRig:bkJnt_jaw
+    100010: Character_rig:Metropolia_scaleRig:bkJnt_L_ball
+    100012: Character_rig:Metropolia_scaleRig:bkJnt_L_clavicle
+    100014: Character_rig:Metropolia_scaleRig:bkJnt_L_eye
+    100016: Character_rig:Metropolia_scaleRig:bkJnt_L_index1
+    100018: Character_rig:Metropolia_scaleRig:bkJnt_L_index2
+    100020: Character_rig:Metropolia_scaleRig:bkJnt_L_index3
+    100022: Character_rig:Metropolia_scaleRig:bkJnt_L_index4
+    100024: Character_rig:Metropolia_scaleRig:bkJnt_L_lowerArm
+    100026: Character_rig:Metropolia_scaleRig:bkJnt_L_middle1
+    100028: Character_rig:Metropolia_scaleRig:bkJnt_L_middle2
+    100030: Character_rig:Metropolia_scaleRig:bkJnt_L_middle3
+    100032: Character_rig:Metropolia_scaleRig:bkJnt_L_middle4
+    100034: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky1
+    100036: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky2
+    100038: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky3
+    100040: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky4
+    100042: Character_rig:Metropolia_scaleRig:bkJnt_L_ring1
+    100044: Character_rig:Metropolia_scaleRig:bkJnt_L_ring2
+    100046: Character_rig:Metropolia_scaleRig:bkJnt_L_ring3
+    100048: Character_rig:Metropolia_scaleRig:bkJnt_L_ring4
+    100050: Character_rig:Metropolia_scaleRig:bkJnt_L_shin
+    100052: Character_rig:Metropolia_scaleRig:bkJnt_L_thigh
+    100054: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb1
+    100056: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb2
+    100058: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb3
+    100060: Character_rig:Metropolia_scaleRig:bkJnt_L_toe
+    100062: Character_rig:Metropolia_scaleRig:bkJnt_L_upperArm
+    100064: Character_rig:Metropolia_scaleRig:bkJnt_L_wrist
+    100066: Character_rig:Metropolia_scaleRig:bkJnt_neck
+    100068: Character_rig:Metropolia_scaleRig:bkJnt_pelvis
+    100070: Character_rig:Metropolia_scaleRig:bkJnt_R_ball
+    100072: Character_rig:Metropolia_scaleRig:bkJnt_R_clavicle
+    100074: Character_rig:Metropolia_scaleRig:bkJnt_R_eye
+    100076: Character_rig:Metropolia_scaleRig:bkJnt_R_index1
+    100078: Character_rig:Metropolia_scaleRig:bkJnt_R_index2
+    100080: Character_rig:Metropolia_scaleRig:bkJnt_R_index3
+    100082: Character_rig:Metropolia_scaleRig:bkJnt_R_index4
+    100084: Character_rig:Metropolia_scaleRig:bkJnt_R_lowerArm
+    100086: Character_rig:Metropolia_scaleRig:bkJnt_R_middle1
+    100088: Character_rig:Metropolia_scaleRig:bkJnt_R_middle2
+    100090: Character_rig:Metropolia_scaleRig:bkJnt_R_middle3
+    100092: Character_rig:Metropolia_scaleRig:bkJnt_R_middle4
+    100094: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky1
+    100096: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky2
+    100098: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky3
+    100100: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky4
+    100102: Character_rig:Metropolia_scaleRig:bkJnt_R_ring1
+    100104: Character_rig:Metropolia_scaleRig:bkJnt_R_ring2
+    100106: Character_rig:Metropolia_scaleRig:bkJnt_R_ring3
+    100108: Character_rig:Metropolia_scaleRig:bkJnt_R_ring4
+    100110: Character_rig:Metropolia_scaleRig:bkJnt_R_shin
+    100112: Character_rig:Metropolia_scaleRig:bkJnt_R_thigh
+    100114: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb1
+    100116: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb2
+    100118: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb3
+    100120: Character_rig:Metropolia_scaleRig:bkJnt_R_toe
+    100122: Character_rig:Metropolia_scaleRig:bkJnt_R_upperArm
+    100124: Character_rig:Metropolia_scaleRig:bkJnt_R_wrist
+    100126: Character_rig:Metropolia_scaleRig:bkJnt_root
+    100128: Character_rig:Metropolia_scaleRig:bkJntDrv_head
+    100130: Character_rig:Metropolia_scaleRig:bkJntDrv_jaw
+    100132: Character_rig:Metropolia_scaleRig:bkJntDrv_L_clavicle
+    100134: Character_rig:Metropolia_scaleRig:bkJntDrv_L_eye
+    100136: Character_rig:Metropolia_scaleRig:bkJntDrv_L_shoulder
+    100138: Character_rig:Metropolia_scaleRig:bkJntDrv_R_clavicle
+    100140: Character_rig:Metropolia_scaleRig:bkJntDrv_R_eye
+    100142: Character_rig:Metropolia_scaleRig:bkJntDrv_R_shoulder
+    100144: Character_rig:Metropolia_scaleRig:bkJntMir_R_arm
+    100146: Character_rig:Metropolia_scaleRig:bkJntMir_R_leg
+    100148: Character_rig:Metropolia_scaleRig:grp_bakeJoints
+    100150: Character_rig:Metropolia_scaleRig:grp_scaleRig
+    100152: geo_character_downstairs_waiter
+    400000: //RootNode
+    400002: Character_rig:Metropolia_scaleRig:bkJnt_back
+    400004: Character_rig:Metropolia_scaleRig:bkJnt_chest
+    400006: Character_rig:Metropolia_scaleRig:bkJnt_head
+    400008: Character_rig:Metropolia_scaleRig:bkJnt_jaw
+    400010: Character_rig:Metropolia_scaleRig:bkJnt_L_ball
+    400012: Character_rig:Metropolia_scaleRig:bkJnt_L_clavicle
+    400014: Character_rig:Metropolia_scaleRig:bkJnt_L_eye
+    400016: Character_rig:Metropolia_scaleRig:bkJnt_L_index1
+    400018: Character_rig:Metropolia_scaleRig:bkJnt_L_index2
+    400020: Character_rig:Metropolia_scaleRig:bkJnt_L_index3
+    400022: Character_rig:Metropolia_scaleRig:bkJnt_L_index4
+    400024: Character_rig:Metropolia_scaleRig:bkJnt_L_lowerArm
+    400026: Character_rig:Metropolia_scaleRig:bkJnt_L_middle1
+    400028: Character_rig:Metropolia_scaleRig:bkJnt_L_middle2
+    400030: Character_rig:Metropolia_scaleRig:bkJnt_L_middle3
+    400032: Character_rig:Metropolia_scaleRig:bkJnt_L_middle4
+    400034: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky1
+    400036: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky2
+    400038: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky3
+    400040: Character_rig:Metropolia_scaleRig:bkJnt_L_pinky4
+    400042: Character_rig:Metropolia_scaleRig:bkJnt_L_ring1
+    400044: Character_rig:Metropolia_scaleRig:bkJnt_L_ring2
+    400046: Character_rig:Metropolia_scaleRig:bkJnt_L_ring3
+    400048: Character_rig:Metropolia_scaleRig:bkJnt_L_ring4
+    400050: Character_rig:Metropolia_scaleRig:bkJnt_L_shin
+    400052: Character_rig:Metropolia_scaleRig:bkJnt_L_thigh
+    400054: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb1
+    400056: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb2
+    400058: Character_rig:Metropolia_scaleRig:bkJnt_L_thumb3
+    400060: Character_rig:Metropolia_scaleRig:bkJnt_L_toe
+    400062: Character_rig:Metropolia_scaleRig:bkJnt_L_upperArm
+    400064: Character_rig:Metropolia_scaleRig:bkJnt_L_wrist
+    400066: Character_rig:Metropolia_scaleRig:bkJnt_neck
+    400068: Character_rig:Metropolia_scaleRig:bkJnt_pelvis
+    400070: Character_rig:Metropolia_scaleRig:bkJnt_R_ball
+    400072: Character_rig:Metropolia_scaleRig:bkJnt_R_clavicle
+    400074: Character_rig:Metropolia_scaleRig:bkJnt_R_eye
+    400076: Character_rig:Metropolia_scaleRig:bkJnt_R_index1
+    400078: Character_rig:Metropolia_scaleRig:bkJnt_R_index2
+    400080: Character_rig:Metropolia_scaleRig:bkJnt_R_index3
+    400082: Character_rig:Metropolia_scaleRig:bkJnt_R_index4
+    400084: Character_rig:Metropolia_scaleRig:bkJnt_R_lowerArm
+    400086: Character_rig:Metropolia_scaleRig:bkJnt_R_middle1
+    400088: Character_rig:Metropolia_scaleRig:bkJnt_R_middle2
+    400090: Character_rig:Metropolia_scaleRig:bkJnt_R_middle3
+    400092: Character_rig:Metropolia_scaleRig:bkJnt_R_middle4
+    400094: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky1
+    400096: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky2
+    400098: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky3
+    400100: Character_rig:Metropolia_scaleRig:bkJnt_R_pinky4
+    400102: Character_rig:Metropolia_scaleRig:bkJnt_R_ring1
+    400104: Character_rig:Metropolia_scaleRig:bkJnt_R_ring2
+    400106: Character_rig:Metropolia_scaleRig:bkJnt_R_ring3
+    400108: Character_rig:Metropolia_scaleRig:bkJnt_R_ring4
+    400110: Character_rig:Metropolia_scaleRig:bkJnt_R_shin
+    400112: Character_rig:Metropolia_scaleRig:bkJnt_R_thigh
+    400114: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb1
+    400116: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb2
+    400118: Character_rig:Metropolia_scaleRig:bkJnt_R_thumb3
+    400120: Character_rig:Metropolia_scaleRig:bkJnt_R_toe
+    400122: Character_rig:Metropolia_scaleRig:bkJnt_R_upperArm
+    400124: Character_rig:Metropolia_scaleRig:bkJnt_R_wrist
+    400126: Character_rig:Metropolia_scaleRig:bkJnt_root
+    400128: Character_rig:Metropolia_scaleRig:bkJntDrv_head
+    400130: Character_rig:Metropolia_scaleRig:bkJntDrv_jaw
+    400132: Character_rig:Metropolia_scaleRig:bkJntDrv_L_clavicle
+    400134: Character_rig:Metropolia_scaleRig:bkJntDrv_L_eye
+    400136: Character_rig:Metropolia_scaleRig:bkJntDrv_L_shoulder
+    400138: Character_rig:Metropolia_scaleRig:bkJntDrv_R_clavicle
+    400140: Character_rig:Metropolia_scaleRig:bkJntDrv_R_eye
+    400142: Character_rig:Metropolia_scaleRig:bkJntDrv_R_shoulder
+    400144: Character_rig:Metropolia_scaleRig:bkJntMir_R_arm
+    400146: Character_rig:Metropolia_scaleRig:bkJntMir_R_leg
+    400148: Character_rig:Metropolia_scaleRig:grp_bakeJoints
+    400150: Character_rig:Metropolia_scaleRig:grp_scaleRig
+    400152: geo_character_downstairs_waiter
+    4300000: geo_character_downstairs_waiter
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: geo_character_downstairs_waiter
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_material
+    second: {fileID: 2100000, guid: 6d733ce821c008d4d9f23eb59d3a8e3a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: dcd55098a29e7a14ba5d476088d57483
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: building_wall
+    100002: building_wall.001
+    100004: building_wall.002
+    100006: building_wall.003
+    100008: ceiling
+    100010: Character_basemesh
+    100012: door_01
+    100014: door_01.001
+    100016: door_handle_01
+    100018: door_handle_01.001
+    100020: door_handle_01.002
+    100022: floor
+    100024: //RootNode
+    100026: secret_room
+    100028: secret_room.001
+    100030: secret_room.002
+    100032: secret_room.003
+    100034: secret_room_ceiling
+    100036: secret_room_floor
+    100038: stage
+    100040: stage_front
+    100042: wall_boarder_01
+    100044: wall_boarder_02
+    400000: building_wall
+    400002: building_wall.001
+    400004: building_wall.002
+    400006: building_wall.003
+    400008: ceiling
+    400010: Character_basemesh
+    400012: door_01
+    400014: door_01.001
+    400016: door_handle_01
+    400018: door_handle_01.001
+    400020: door_handle_01.002
+    400022: floor
+    400024: //RootNode
+    400026: secret_room
+    400028: secret_room.001
+    400030: secret_room.002
+    400032: secret_room.003
+    400034: secret_room_ceiling
+    400036: secret_room_floor
+    400038: stage
+    400040: stage_front
+    400042: wall_boarder_01
+    400044: wall_boarder_02
+    2300000: building_wall
+    2300002: building_wall.001
+    2300004: building_wall.002
+    2300006: building_wall.003
+    2300008: ceiling
+    2300010: Character_basemesh
+    2300012: door_01
+    2300014: door_01.001
+    2300016: door_handle_01
+    2300018: door_handle_01.001
+    2300020: door_handle_01.002
+    2300022: floor
+    2300024: secret_room
+    2300026: secret_room.001
+    2300028: secret_room.002
+    2300030: secret_room.003
+    2300032: secret_room_ceiling
+    2300034: secret_room_floor
+    2300036: stage
+    2300038: stage_front
+    2300040: wall_boarder_01
+    2300042: wall_boarder_02
+    3300000: building_wall
+    3300002: building_wall.001
+    3300004: building_wall.002
+    3300006: building_wall.003
+    3300008: ceiling
+    3300010: Character_basemesh
+    3300012: door_01
+    3300014: door_01.001
+    3300016: door_handle_01
+    3300018: door_handle_01.001
+    3300020: door_handle_01.002
+    3300022: floor
+    3300024: secret_room
+    3300026: secret_room.001
+    3300028: secret_room.002
+    3300030: secret_room.003
+    3300032: secret_room_ceiling
+    3300034: secret_room_floor
+    3300036: stage
+    3300038: stage_front
+    3300040: wall_boarder_01
+    3300042: wall_boarder_02
+    4300000: stage_front
+    4300002: stage
+    4300004: secret_room.003
+    4300006: secret_room.001
+    4300008: secret_room.002
+    4300010: door_handle_01.002
+    4300012: door_handle_01.001
+    4300014: door_01.001
+    4300016: building_wall.003
+    4300018: building_wall.002
+    4300020: building_wall.001
+    4300022: Character_basemesh
+    4300024: secret_room_ceiling
+    4300026: secret_room_floor
+    4300028: wall_boarder_02
+    4300030: wall_boarder_01
+    4300032: secret_room
+    4300034: floor
+    4300036: ceiling
+    4300038: building_wall
+    4300040: door_01
+    4300042: door_handle_01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas
+    second: {fileID: 2100000, guid: 88b967a5c4ac89241a5a13da8d941beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: fccd4ecd5c15efc4185f9e1eaa6de4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7d8e1b10540c14b44a9156aee3e65450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bricks
+    second: {fileID: 2100000, guid: 6cd9277f189e0404483cf1d7ccfb6428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: c56be18ce276ada4eb18a32e99067299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: eb2177909b7736b42a429e8adf1bd15c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

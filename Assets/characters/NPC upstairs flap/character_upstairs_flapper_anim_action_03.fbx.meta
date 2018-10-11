@@ -1,0 +1,1074 @@
+fileFormatVersion: 2
+guid: 5433417ca629a4d49b64687d8edb6a99
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character_upstairs_flapper:bkJnt_back
+    100002: character_upstairs_flapper:bkJnt_chest
+    100004: character_upstairs_flapper:bkJnt_head
+    100006: character_upstairs_flapper:bkJnt_jaw
+    100008: character_upstairs_flapper:bkJnt_L_ball
+    100010: character_upstairs_flapper:bkJnt_L_clavicle
+    100012: character_upstairs_flapper:bkJnt_L_eye
+    100014: character_upstairs_flapper:bkJnt_L_index1
+    100016: character_upstairs_flapper:bkJnt_L_index2
+    100018: character_upstairs_flapper:bkJnt_L_index3
+    100020: character_upstairs_flapper:bkJnt_L_index4
+    100022: character_upstairs_flapper:bkJnt_L_lowerArm
+    100024: character_upstairs_flapper:bkJnt_L_middle1
+    100026: character_upstairs_flapper:bkJnt_L_middle2
+    100028: character_upstairs_flapper:bkJnt_L_middle3
+    100030: character_upstairs_flapper:bkJnt_L_middle4
+    100032: character_upstairs_flapper:bkJnt_L_pinky1
+    100034: character_upstairs_flapper:bkJnt_L_pinky2
+    100036: character_upstairs_flapper:bkJnt_L_pinky3
+    100038: character_upstairs_flapper:bkJnt_L_pinky4
+    100040: character_upstairs_flapper:bkJnt_L_ring1
+    100042: character_upstairs_flapper:bkJnt_L_ring2
+    100044: character_upstairs_flapper:bkJnt_L_ring3
+    100046: character_upstairs_flapper:bkJnt_L_ring4
+    100048: character_upstairs_flapper:bkJnt_L_shin
+    100050: character_upstairs_flapper:bkJnt_L_thigh
+    100052: character_upstairs_flapper:bkJnt_L_thumb1
+    100054: character_upstairs_flapper:bkJnt_L_thumb2
+    100056: character_upstairs_flapper:bkJnt_L_thumb3
+    100058: character_upstairs_flapper:bkJnt_L_toe
+    100060: character_upstairs_flapper:bkJnt_L_upperArm
+    100062: character_upstairs_flapper:bkJnt_L_wrist
+    100064: character_upstairs_flapper:bkJnt_neck
+    100066: character_upstairs_flapper:bkJnt_pelvis
+    100068: character_upstairs_flapper:bkJnt_R_ball
+    100070: character_upstairs_flapper:bkJnt_R_clavicle
+    100072: character_upstairs_flapper:bkJnt_R_eye
+    100074: character_upstairs_flapper:bkJnt_R_index1
+    100076: character_upstairs_flapper:bkJnt_R_index2
+    100078: character_upstairs_flapper:bkJnt_R_index3
+    100080: character_upstairs_flapper:bkJnt_R_index4
+    100082: character_upstairs_flapper:bkJnt_R_lowerArm
+    100084: character_upstairs_flapper:bkJnt_R_middle1
+    100086: character_upstairs_flapper:bkJnt_R_middle2
+    100088: character_upstairs_flapper:bkJnt_R_middle3
+    100090: character_upstairs_flapper:bkJnt_R_middle4
+    100092: character_upstairs_flapper:bkJnt_R_pinky1
+    100094: character_upstairs_flapper:bkJnt_R_pinky2
+    100096: character_upstairs_flapper:bkJnt_R_pinky3
+    100098: character_upstairs_flapper:bkJnt_R_pinky4
+    100100: character_upstairs_flapper:bkJnt_R_ring1
+    100102: character_upstairs_flapper:bkJnt_R_ring2
+    100104: character_upstairs_flapper:bkJnt_R_ring3
+    100106: character_upstairs_flapper:bkJnt_R_ring4
+    100108: character_upstairs_flapper:bkJnt_R_shin
+    100110: character_upstairs_flapper:bkJnt_R_thigh
+    100112: character_upstairs_flapper:bkJnt_R_thumb1
+    100114: character_upstairs_flapper:bkJnt_R_thumb2
+    100116: character_upstairs_flapper:bkJnt_R_thumb3
+    100118: character_upstairs_flapper:bkJnt_R_toe
+    100120: character_upstairs_flapper:bkJnt_R_upperArm
+    100122: character_upstairs_flapper:bkJnt_R_wrist
+    100124: character_upstairs_flapper:bkJnt_root
+    100126: character_upstairs_flapper:bkJntDrv_head
+    100128: character_upstairs_flapper:bkJntDrv_jaw
+    100130: character_upstairs_flapper:bkJntDrv_L_clavicle
+    100132: character_upstairs_flapper:bkJntDrv_L_eye
+    100134: character_upstairs_flapper:bkJntDrv_L_shoulder
+    100136: character_upstairs_flapper:bkJntDrv_R_clavicle
+    100138: character_upstairs_flapper:bkJntDrv_R_eye
+    100140: character_upstairs_flapper:bkJntDrv_R_shoulder
+    100142: character_upstairs_flapper:bkJntEnd_headTop
+    100144: character_upstairs_flapper:bkJntEnd_jaw
+    100146: character_upstairs_flapper:bkJntEnd_L_index
+    100148: character_upstairs_flapper:bkJntEnd_L_middle
+    100150: character_upstairs_flapper:bkJntEnd_L_pinky
+    100152: character_upstairs_flapper:bkJntEnd_L_ring
+    100154: character_upstairs_flapper:bkJntEnd_L_thumb
+    100156: character_upstairs_flapper:bkJntEnd_L_toeTip
+    100158: character_upstairs_flapper:bkJntEnd_R_index
+    100160: character_upstairs_flapper:bkJntEnd_R_middle
+    100162: character_upstairs_flapper:bkJntEnd_R_pinky
+    100164: character_upstairs_flapper:bkJntEnd_R_thumb
+    100166: character_upstairs_flapper:bkJntEnd_R_toeTip
+    100168: character_upstairs_flapper:bkJntMir_R_arm
+    100170: character_upstairs_flapper:bkJntMir_R_leg
+    100172: character_upstairs_flapper:character_upstairs_flapper_mesh
+    100174: character_upstairs_flapper:grp_bakeJoints
+    100176: character_upstairs_flapper:jntEnd_R_ring
+    100178: //RootNode
+    400000: character_upstairs_flapper:bkJnt_back
+    400002: character_upstairs_flapper:bkJnt_chest
+    400004: character_upstairs_flapper:bkJnt_head
+    400006: character_upstairs_flapper:bkJnt_jaw
+    400008: character_upstairs_flapper:bkJnt_L_ball
+    400010: character_upstairs_flapper:bkJnt_L_clavicle
+    400012: character_upstairs_flapper:bkJnt_L_eye
+    400014: character_upstairs_flapper:bkJnt_L_index1
+    400016: character_upstairs_flapper:bkJnt_L_index2
+    400018: character_upstairs_flapper:bkJnt_L_index3
+    400020: character_upstairs_flapper:bkJnt_L_index4
+    400022: character_upstairs_flapper:bkJnt_L_lowerArm
+    400024: character_upstairs_flapper:bkJnt_L_middle1
+    400026: character_upstairs_flapper:bkJnt_L_middle2
+    400028: character_upstairs_flapper:bkJnt_L_middle3
+    400030: character_upstairs_flapper:bkJnt_L_middle4
+    400032: character_upstairs_flapper:bkJnt_L_pinky1
+    400034: character_upstairs_flapper:bkJnt_L_pinky2
+    400036: character_upstairs_flapper:bkJnt_L_pinky3
+    400038: character_upstairs_flapper:bkJnt_L_pinky4
+    400040: character_upstairs_flapper:bkJnt_L_ring1
+    400042: character_upstairs_flapper:bkJnt_L_ring2
+    400044: character_upstairs_flapper:bkJnt_L_ring3
+    400046: character_upstairs_flapper:bkJnt_L_ring4
+    400048: character_upstairs_flapper:bkJnt_L_shin
+    400050: character_upstairs_flapper:bkJnt_L_thigh
+    400052: character_upstairs_flapper:bkJnt_L_thumb1
+    400054: character_upstairs_flapper:bkJnt_L_thumb2
+    400056: character_upstairs_flapper:bkJnt_L_thumb3
+    400058: character_upstairs_flapper:bkJnt_L_toe
+    400060: character_upstairs_flapper:bkJnt_L_upperArm
+    400062: character_upstairs_flapper:bkJnt_L_wrist
+    400064: character_upstairs_flapper:bkJnt_neck
+    400066: character_upstairs_flapper:bkJnt_pelvis
+    400068: character_upstairs_flapper:bkJnt_R_ball
+    400070: character_upstairs_flapper:bkJnt_R_clavicle
+    400072: character_upstairs_flapper:bkJnt_R_eye
+    400074: character_upstairs_flapper:bkJnt_R_index1
+    400076: character_upstairs_flapper:bkJnt_R_index2
+    400078: character_upstairs_flapper:bkJnt_R_index3
+    400080: character_upstairs_flapper:bkJnt_R_index4
+    400082: character_upstairs_flapper:bkJnt_R_lowerArm
+    400084: character_upstairs_flapper:bkJnt_R_middle1
+    400086: character_upstairs_flapper:bkJnt_R_middle2
+    400088: character_upstairs_flapper:bkJnt_R_middle3
+    400090: character_upstairs_flapper:bkJnt_R_middle4
+    400092: character_upstairs_flapper:bkJnt_R_pinky1
+    400094: character_upstairs_flapper:bkJnt_R_pinky2
+    400096: character_upstairs_flapper:bkJnt_R_pinky3
+    400098: character_upstairs_flapper:bkJnt_R_pinky4
+    400100: character_upstairs_flapper:bkJnt_R_ring1
+    400102: character_upstairs_flapper:bkJnt_R_ring2
+    400104: character_upstairs_flapper:bkJnt_R_ring3
+    400106: character_upstairs_flapper:bkJnt_R_ring4
+    400108: character_upstairs_flapper:bkJnt_R_shin
+    400110: character_upstairs_flapper:bkJnt_R_thigh
+    400112: character_upstairs_flapper:bkJnt_R_thumb1
+    400114: character_upstairs_flapper:bkJnt_R_thumb2
+    400116: character_upstairs_flapper:bkJnt_R_thumb3
+    400118: character_upstairs_flapper:bkJnt_R_toe
+    400120: character_upstairs_flapper:bkJnt_R_upperArm
+    400122: character_upstairs_flapper:bkJnt_R_wrist
+    400124: character_upstairs_flapper:bkJnt_root
+    400126: character_upstairs_flapper:bkJntDrv_head
+    400128: character_upstairs_flapper:bkJntDrv_jaw
+    400130: character_upstairs_flapper:bkJntDrv_L_clavicle
+    400132: character_upstairs_flapper:bkJntDrv_L_eye
+    400134: character_upstairs_flapper:bkJntDrv_L_shoulder
+    400136: character_upstairs_flapper:bkJntDrv_R_clavicle
+    400138: character_upstairs_flapper:bkJntDrv_R_eye
+    400140: character_upstairs_flapper:bkJntDrv_R_shoulder
+    400142: character_upstairs_flapper:bkJntEnd_headTop
+    400144: character_upstairs_flapper:bkJntEnd_jaw
+    400146: character_upstairs_flapper:bkJntEnd_L_index
+    400148: character_upstairs_flapper:bkJntEnd_L_middle
+    400150: character_upstairs_flapper:bkJntEnd_L_pinky
+    400152: character_upstairs_flapper:bkJntEnd_L_ring
+    400154: character_upstairs_flapper:bkJntEnd_L_thumb
+    400156: character_upstairs_flapper:bkJntEnd_L_toeTip
+    400158: character_upstairs_flapper:bkJntEnd_R_index
+    400160: character_upstairs_flapper:bkJntEnd_R_middle
+    400162: character_upstairs_flapper:bkJntEnd_R_pinky
+    400164: character_upstairs_flapper:bkJntEnd_R_thumb
+    400166: character_upstairs_flapper:bkJntEnd_R_toeTip
+    400168: character_upstairs_flapper:bkJntMir_R_arm
+    400170: character_upstairs_flapper:bkJntMir_R_leg
+    400172: character_upstairs_flapper:character_upstairs_flapper_mesh
+    400174: character_upstairs_flapper:grp_bakeJoints
+    400176: character_upstairs_flapper:jntEnd_R_ring
+    400178: //RootNode
+    4300000: character_upstairs_flapper:character_upstairs_flapper_mesh
+    7400000: up_flap_action
+    9500000: //RootNode
+    13700000: character_upstairs_flapper:character_upstairs_flapper_mesh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_upstairs_flapper_lambert2
+    second: {fileID: 2100000, guid: 6d733ce821c008d4d9f23eb59d3a8e3a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'character_upstairs_flapper:bkJntDrv_head' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_upstairs_flapper:bkJntDrv_L_shoulder'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_upstairs_flapper:bkJntDrv_R_shoulder'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_upstairs_flapper:bkJnt_R_wrist'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: up_flap_action
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: character_upstairs_flapper:bkJnt_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_shin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_shin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_ball
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_ball
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_back
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_upperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_upperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_lowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_lowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_thumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_index3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_ring1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_ring2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_L_ring3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_thumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_index3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_upstairs_flapper:bkJnt_R_ring3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: character_upstairs_flapper_anim_action_03(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:character_upstairs_flapper_mesh
+      parentName: character_upstairs_flapper_anim_action_03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:grp_bakeJoints
+      parentName: character_upstairs_flapper_anim_action_03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3, y: 1.3, z: 1.3}
+    - name: character_upstairs_flapper:bkJnt_root
+      parentName: character_upstairs_flapper:grp_bakeJoints
+      position: {x: 1.6705623e-18, y: 0.741756, z: -7.888609e-33}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_back
+      parentName: character_upstairs_flapper:bkJnt_root
+      position: {x: -0.027350742, y: 0, z: -3.330669e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_chest
+      parentName: character_upstairs_flapper:bkJnt_back
+      position: {x: -0.12964438, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntDrv_L_clavicle
+      parentName: character_upstairs_flapper:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_clavicle
+      parentName: character_upstairs_flapper:bkJntDrv_L_clavicle
+      position: {x: -0.04, y: 0, z: -0.083707504}
+      rotation: {x: -8.7430063e-16, y: -0, z: 8.7430063e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntDrv_L_shoulder
+      parentName: character_upstairs_flapper:bkJnt_L_clavicle
+      position: {x: -0.083559684, y: -2.7435761e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_upperArm
+      parentName: character_upstairs_flapper:bkJntDrv_L_shoulder
+      position: {x: -0, y: 0, z: 1.5777218e-32}
+      rotation: {x: 0.000000024214382, y: -0.3816436, z: -0.036617327, w: 0.9235839}
+      scale: {x: 1, y: 1.0000006, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_lowerArm
+      parentName: character_upstairs_flapper:bkJnt_L_upperArm
+      position: {x: -0.19157079, y: 4.440892e-18, z: 4.9303805e-34}
+      rotation: {x: -0.0015129005, y: -0.014412759, z: -0.039686415, w: 0.9991072}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: character_upstairs_flapper:bkJnt_L_wrist
+      parentName: character_upstairs_flapper:bkJnt_L_lowerArm
+      position: {x: -0.19157079, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.001272541, y: 0.024310192, z: 0.052255925, w: 0.998337}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: character_upstairs_flapper:bkJnt_L_thumb1
+      parentName: character_upstairs_flapper:bkJnt_L_wrist
+      position: {x: -0.016882975, y: 0.03376595, z: 0.01}
+      rotation: {x: -0.038533114, y: 0.009142736, z: -0.3351392, w: 0.9413359}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_thumb2
+      parentName: character_upstairs_flapper:bkJnt_L_thumb1
+      position: {x: -0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0.0000000066356716, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: character_upstairs_flapper:bkJnt_L_thumb3
+      parentName: character_upstairs_flapper:bkJnt_L_thumb2
+      position: {x: -0.020260097, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: character_upstairs_flapper:bkJntEnd_L_thumb
+      parentName: character_upstairs_flapper:bkJnt_L_thumb3
+      position: {x: -0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_index1
+      parentName: character_upstairs_flapper:bkJnt_L_wrist
+      position: {x: -0.023636164, y: 0.016882975, z: 1.4210854e-16}
+      rotation: {x: -0, y: -0, z: 9.1313246e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_index2
+      parentName: character_upstairs_flapper:bkJnt_L_index1
+      position: {x: -0.04727233, y: -2.6645352e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: character_upstairs_flapper:bkJnt_L_index3
+      parentName: character_upstairs_flapper:bkJnt_L_index2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_index4
+      parentName: character_upstairs_flapper:bkJnt_L_index3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntEnd_L_index
+      parentName: character_upstairs_flapper:bkJnt_L_index4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_middle1
+      parentName: character_upstairs_flapper:bkJnt_L_wrist
+      position: {x: -0.025324464, y: -2.1347798e-17, z: 0}
+      rotation: {x: -0, y: -0, z: 9.1313246e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_middle2
+      parentName: character_upstairs_flapper:bkJnt_L_middle1
+      position: {x: -0.050648928, y: -3.5863454e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: character_upstairs_flapper:bkJnt_L_middle3
+      parentName: character_upstairs_flapper:bkJnt_L_middle2
+      position: {x: -0.030389354, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_middle4
+      parentName: character_upstairs_flapper:bkJnt_L_middle3
+      position: {x: -0.020259572, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntEnd_L_middle
+      parentName: character_upstairs_flapper:bkJnt_L_middle4
+      position: {x: -0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_ring1
+      parentName: character_upstairs_flapper:bkJnt_L_wrist
+      position: {x: -0.023636164, y: -0.016882975, z: -1.4210854e-16}
+      rotation: {x: -0, y: -0, z: 9.1313246e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_ring2
+      parentName: character_upstairs_flapper:bkJnt_L_ring1
+      position: {x: -0.04727233, y: -4.4408918e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: character_upstairs_flapper:bkJnt_L_ring3
+      parentName: character_upstairs_flapper:bkJnt_L_ring2
+      position: {x: -0.028110154, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_ring4
+      parentName: character_upstairs_flapper:bkJnt_L_ring3
+      position: {x: -0.018740103, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntEnd_L_ring
+      parentName: character_upstairs_flapper:bkJnt_L_ring4
+      position: {x: -0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_pinky1
+      parentName: character_upstairs_flapper:bkJnt_L_wrist
+      position: {x: -0.016882975, y: -0.03376595, z: -4.2632563e-16}
+      rotation: {x: -0, y: -0, z: 9.1313246e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_pinky2
+      parentName: character_upstairs_flapper:bkJnt_L_pinky1
+      position: {x: -0.04727233, y: -5.3290704e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: character_upstairs_flapper:bkJnt_L_pinky3
+      parentName: character_upstairs_flapper:bkJnt_L_pinky2
+      position: {x: -0.021272548, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_pinky4
+      parentName: character_upstairs_flapper:bkJnt_L_pinky3
+      position: {x: -0.0141817, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntEnd_L_pinky
+      parentName: character_upstairs_flapper:bkJnt_L_pinky4
+      position: {x: -0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntMir_R_arm
+      parentName: character_upstairs_flapper:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntDrv_R_clavicle
+      parentName: character_upstairs_flapper:bkJntMir_R_arm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_clavicle
+      parentName: character_upstairs_flapper:bkJntDrv_R_clavicle
+      position: {x: 0.04, y: 0, z: 0.083707504}
+      rotation: {x: 5.7212088e-18, y: -0, z: 5.551113e-17, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJntDrv_R_shoulder
+      parentName: character_upstairs_flapper:bkJnt_R_clavicle
+      position: {x: 0.083559684, y: 2.7435761e-17, z: 0}
+      rotation: {x: 0.021017153, y: 0.40152717, z: 0.047860086, w: 0.91435426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_upperArm
+      parentName: character_upstairs_flapper:bkJntDrv_R_shoulder
+      position: {x: -0, y: 3.9443044e-33, z: 0}
+      rotation: {x: -0.00000004097819, y: -0.38164365, z: -0.036617335, w: 0.923584}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000006}
+    - name: character_upstairs_flapper:bkJnt_R_lowerArm
+      parentName: character_upstairs_flapper:bkJnt_R_upperArm
+      position: {x: 0.19157079, y: 0, z: 3.077396e-16}
+      rotation: {x: -0.0015129087, y: -0.014412727, z: -0.039686576, w: 0.9991071}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: character_upstairs_flapper:bkJnt_R_wrist
+      parentName: character_upstairs_flapper:bkJnt_R_lowerArm
+      position: {x: 0.19157079, y: -2.4868996e-16, z: -1.4210854e-16}
+      rotation: {x: -0.0012725006, y: 0.024310164, z: 0.052255932, w: 0.998337}
+      scale: {x: 1, y: 1.0000007, z: 1.000001}
+    - name: character_upstairs_flapper:bkJnt_R_thumb1
+      parentName: character_upstairs_flapper:bkJnt_R_wrist
+      position: {x: 0.016882975, y: -0.03376595, z: -0.01}
+      rotation: {x: -0.038532905, y: 0.009142862, z: -0.3351394, w: 0.9413358}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: character_upstairs_flapper:bkJnt_R_thumb2
+      parentName: character_upstairs_flapper:bkJnt_R_thumb1
+      position: {x: 0.030390145, y: -3.330669e-17, z: 0}
+      rotation: {x: -0, y: -0.000000007450579, z: 0.000000002444721, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: character_upstairs_flapper:bkJnt_R_thumb3
+      parentName: character_upstairs_flapper:bkJnt_R_thumb2
+      position: {x: 0.020260097, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999964}
+    - name: character_upstairs_flapper:bkJntEnd_R_thumb
+      parentName: character_upstairs_flapper:bkJnt_R_thumb3
+      position: {x: 0.016883416, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_index1
+      parentName: character_upstairs_flapper:bkJnt_R_wrist
+      position: {x: 0.023636164, y: -0.016882975, z: -1.4210854e-16}
+      rotation: {x: -0, y: -0, z: -1.0550136e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_index2
+      parentName: character_upstairs_flapper:bkJnt_R_index1
+      position: {x: 0.04727233, y: 2.6645352e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_index3
+      parentName: character_upstairs_flapper:bkJnt_R_index2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_index4
+      parentName: character_upstairs_flapper:bkJnt_R_index3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJntEnd_R_index
+      parentName: character_upstairs_flapper:bkJnt_R_index4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_middle1
+      parentName: character_upstairs_flapper:bkJnt_R_wrist
+      position: {x: 0.025324464, y: 2.1347798e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -1.0550136e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_middle2
+      parentName: character_upstairs_flapper:bkJnt_R_middle1
+      position: {x: 0.050648928, y: 3.5863454e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_middle3
+      parentName: character_upstairs_flapper:bkJnt_R_middle2
+      position: {x: 0.030389354, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_middle4
+      parentName: character_upstairs_flapper:bkJnt_R_middle3
+      position: {x: 0.020259572, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJntEnd_R_middle
+      parentName: character_upstairs_flapper:bkJnt_R_middle4
+      position: {x: 0.016882973, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_ring1
+      parentName: character_upstairs_flapper:bkJnt_R_wrist
+      position: {x: 0.023636164, y: 0.016882975, z: 1.4210854e-16}
+      rotation: {x: -0, y: -0, z: -1.0550136e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_ring2
+      parentName: character_upstairs_flapper:bkJnt_R_ring1
+      position: {x: 0.04727233, y: 4.4408918e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_ring3
+      parentName: character_upstairs_flapper:bkJnt_R_ring2
+      position: {x: 0.028110154, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_ring4
+      parentName: character_upstairs_flapper:bkJnt_R_ring3
+      position: {x: 0.018740103, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:jntEnd_R_ring
+      parentName: character_upstairs_flapper:bkJnt_R_ring4
+      position: {x: 0.01561675, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_pinky1
+      parentName: character_upstairs_flapper:bkJnt_R_wrist
+      position: {x: 0.016882975, y: 0.03376595, z: 4.2632563e-16}
+      rotation: {x: -0, y: -0, z: -1.0550136e-10, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_pinky2
+      parentName: character_upstairs_flapper:bkJnt_R_pinky1
+      position: {x: 0.04727233, y: 5.3290704e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_pinky3
+      parentName: character_upstairs_flapper:bkJnt_R_pinky2
+      position: {x: 0.021272548, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_pinky4
+      parentName: character_upstairs_flapper:bkJnt_R_pinky3
+      position: {x: 0.0141817, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: character_upstairs_flapper:bkJntEnd_R_pinky
+      parentName: character_upstairs_flapper:bkJnt_R_pinky4
+      position: {x: 0.011818082, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_neck
+      parentName: character_upstairs_flapper:bkJnt_chest
+      position: {x: -0.1425185, y: 2.4424906e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntDrv_head
+      parentName: character_upstairs_flapper:bkJnt_neck
+      position: {x: -0.08, y: 8.881784e-18, z: -7.888609e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_head
+      parentName: character_upstairs_flapper:bkJntDrv_head
+      position: {x: -0, y: 1.5777218e-32, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntDrv_jaw
+      parentName: character_upstairs_flapper:bkJnt_head
+      position: {x: -0.03, y: 0.03, z: -8.426895e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_jaw
+      parentName: character_upstairs_flapper:bkJntDrv_jaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000029802326, y: -0.000000029802326, z: 0.86320955, w: -0.5048459}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.9999999}
+    - name: character_upstairs_flapper:bkJntEnd_jaw
+      parentName: character_upstairs_flapper:bkJnt_jaw
+      position: {x: -0.09178779, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntDrv_L_eye
+      parentName: character_upstairs_flapper:bkJnt_head
+      position: {x: -0.04537772, y: 0.08559405, z: 0.024581382}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_eye
+      parentName: character_upstairs_flapper:bkJntDrv_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.2524927e-15, y: -2.0275872e-15, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000019, z: 1.0000005}
+    - name: character_upstairs_flapper:bkJntDrv_R_eye
+      parentName: character_upstairs_flapper:bkJnt_head
+      position: {x: -0.04537772, y: 0.08559405, z: -0.024581382}
+      rotation: {x: 0, y: 1.5700926e-16, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_eye
+      parentName: character_upstairs_flapper:bkJntDrv_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.2524927e-15, y: -2.0275872e-15, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000019, z: 1.0000005}
+    - name: character_upstairs_flapper:bkJntEnd_headTop
+      parentName: character_upstairs_flapper:bkJnt_head
+      position: {x: -0.16083494, y: 3.1086245e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_pelvis
+      parentName: character_upstairs_flapper:bkJnt_root
+      position: {x: 0.027350742, y: 2.7755574e-18, z: 9.244463e-34}
+      rotation: {x: -0, y: 1, z: -0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJntMir_R_leg
+      parentName: character_upstairs_flapper:bkJnt_pelvis
+      position: {x: -0.14512572, y: 1.2261255e-17, z: 0.07242032}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_R_thigh
+      parentName: character_upstairs_flapper:bkJntMir_R_leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0014106183, y: -0.0023263246, z: -0.034472015, w: 0.99940205}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: character_upstairs_flapper:bkJnt_R_shin
+      parentName: character_upstairs_flapper:bkJnt_R_thigh
+      position: {x: 0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: 0.000000110478126, y: -0.0000000023283062, z: -0.08105527, w: -0.99670964}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999994}
+    - name: character_upstairs_flapper:bkJnt_R_ball
+      parentName: character_upstairs_flapper:bkJnt_R_shin
+      position: {x: 0.23741664, y: 1.4872944e-16, z: 3.979608e-17}
+      rotation: {x: 0.002205862, y: -0.0015923372, z: 0.50406146, w: -0.8636635}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1.0000001}
+    - name: character_upstairs_flapper:bkJnt_R_toe
+      parentName: character_upstairs_flapper:bkJnt_R_ball
+      position: {x: 0.1154363, y: 0, z: 9.241614e-10}
+      rotation: {x: 0.000000017229466, y: 0.000000010477378, z: -0.21620902, w: 0.9763471}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: character_upstairs_flapper:bkJntEnd_R_toeTip
+      parentName: character_upstairs_flapper:bkJnt_R_toe
+      position: {x: 0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_upstairs_flapper:bkJnt_L_thigh
+      parentName: character_upstairs_flapper:bkJnt_pelvis
+      position: {x: -0.14512572, y: 2.1094237e-17, z: -0.07242032}
+      rotation: {x: 0.0014106035, y: -0.0023263097, z: -0.034472033, w: 0.999402}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000008}
+    - name: character_upstairs_flapper:bkJnt_L_shin
+      parentName: character_upstairs_flapper:bkJnt_L_thigh
+      position: {x: -0.2594058, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -0.00000005052425, y: -0.000000041676685, z: 0.081055276, w: 0.99670964}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000007}
+    - name: character_upstairs_flapper:bkJnt_L_ball
+      parentName: character_upstairs_flapper:bkJnt_L_shin
+      position: {x: -0.23741664, y: 0, z: 3.979608e-17}
+      rotation: {x: -0.0022057593, y: 0.0015923358, z: -0.50406134, w: 0.86366355}
+      scale: {x: 1.000001, y: 0.9999999, z: 1.0000006}
+    - name: character_upstairs_flapper:bkJnt_L_toe
+      parentName: character_upstairs_flapper:bkJnt_L_ball
+      position: {x: -0.1154363, y: 1.9515272e-17, z: 9.241614e-10}
+      rotation: {x: 0.000000019557772, y: -0.000000093365074, z: -0.21620908, w: 0.9763471}
+      scale: {x: 1.0000004, y: 1, z: 1.0000006}
+    - name: character_upstairs_flapper:bkJntEnd_L_toeTip
+      parentName: character_upstairs_flapper:bkJnt_L_toe
+      position: {x: -0.048097003, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.060621075, y: -0.7045034, z: -0.060621075, w: 0.7045034}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
